@@ -24,6 +24,9 @@ def calculate_ic(c_s, fpor_s):
     ic = sum / len(fpor_s)
     return ic
 
-def return_trust(ic):
+def return_trust_ic(ic):
     return ic >= 0.5
+
+def return_trust_rep(rep):
+    return rep >= 3.5
 

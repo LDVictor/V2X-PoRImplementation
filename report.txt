@@ -1,0 +1,60 @@
+=== Replicação 1 ===
+Duração TRUST_REP: 0.001500 ms
+Duração SW: 0.002900 ms
+Duração TPOR: 0.001800 ms
+Duração DPOR: 0.002800 ms
+Duração FPOR: 0.001600 ms
+Duração IC: 0.011800 ms
+Duração TRUST_IC: 0.001300 ms
+
+ 
+=== Replicação 2 ===
+Duração TRUST_REP: 0.001200 ms
+Duração SW: 0.001900 ms
+Duração TPOR: 0.001400 ms
+Duração DPOR: 0.002900 ms
+Duração FPOR: 0.001500 ms
+Duração IC: 0.018000 ms
+Duração TRUST_IC: 0.001000 ms
+
+ 
+=== Replicação 3 ===
+Duração TRUST_REP: 0.001300 ms
+Duração SW: 0.002100 ms
+Duração TPOR: 0.001300 ms
+Duração DPOR: 0.002600 ms
+Duração FPOR: 0.001500 ms
+Duração IC: 0.016100 ms
+Duração TRUST_IC: 0.001000 ms
+
+ 
+=== Replicação 4 ===
+Duração TRUST_REP: 0.001200 ms
+Duração SW: 0.002200 ms
+Duração TPOR: 0.001300 ms
+Duração DPOR: 0.003100 ms
+Duração FPOR: 0.001500 ms
+Duração IC: 0.020100 ms
+Duração TRUST_IC: 0.001000 ms
+
+ 
+=== Replicação 5 ===
+Duração TRUST_REP: 0.001100 ms
+Duração SW: 0.002100 ms
+Duração TPOR: 0.001300 ms
+Duração DPOR: 0.002700 ms
+Duração FPOR: 0.001400 ms
+Duração IC: 0.023900 ms
+Duração TRUST_IC: 0.001000 ms
+
+ 
+== Resultados: ==
+Mínimo e Máximo TRUST_REP: [0.001100 ms; 0.001500 ms]
+Mínimo e Máximo SW: [0.001900 ms; 0.002900 ms]
+Mínimo e Máximo TPOR: [0.001300 ms; 0.001800 ms]
+Mínimo e Máximo DPOR: [0.002600 ms; 0.003100 ms]
+Mínimo e Máximo FPOR: [0.001400 ms; 0.001600 ms]
+Mínimo e Máximo IC: [0.011800 ms; 0.023900 ms]
+Mínimo e Máximo TRUST_IC: [0.001000 ms; 0.001300 ms]
+
+ 

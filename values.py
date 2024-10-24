@@ -1,7 +1,7 @@
 import random
 
 c_s = fpor_s = []
-t_v = timestamp = t_approx = t_current = 0
+t_v = timestamp = t_approx = t_current = rep = 0
 d_approx = d_ran = []
 n = random.randint(1, 20)
 
@@ -32,5 +32,17 @@ def generate_coordinates():
     d_ran1 = random.random() * random.randint(0, 180)
     d_ran.append(d_ran0)
     d_ran.append(d_ran1)
+
+def generate_rep():
+    global rep
+    rep = random.random() * random.randint(0, 5)
+
+def fill_values():
+    generate_fpor_s()
+    generate_c_s()
+    generate_times()
+    generate_coordinates()
+    generate_rep()
+    return
 
 
