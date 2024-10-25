@@ -9,7 +9,10 @@ def calculate_fpor(tpor, dpor):
     return fpor
 
 def calculate_tpor(t_approx, t_current):
-    tpor = t_approx / t_current
+    if t_current != 0:
+        tpor = t_approx / t_current
+    else:
+        tpor = 0
     return tpor
 
 def calculate_dpor(d_approx, d_ran):

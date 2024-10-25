@@ -107,7 +107,7 @@ def calculate_times():
 def main():
     global replication
     # Numero de replicacoes
-    n = 5
+    n = 5000
 
     # Zera report atual
     with open('report.txt', 'w') as f:
