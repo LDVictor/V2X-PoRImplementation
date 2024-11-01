@@ -1,5 +1,6 @@
 import timeit, time
 import functions, values
+import pandas as pd
 
 ## Script Principal
 
@@ -104,6 +105,34 @@ def calculate_times():
     print(trust_ic_time)
     list_trust_ic.append(time_7)
 
+def create_df():
+    data = {
+        'TRUST_REPs': list_trust_rep,
+        'SWs': list_sw,
+        'TPORs': list_tpor,
+        'DPORs': list_dpor,
+        'FPORs': list_fpor,
+        'ICs': list_ic,
+        'TRUST_ICs': list_trust_ic
+    }
+
+    df = pd.DataFrame(data)
+    df.to_csv('report.csv', index=False)
+
+def data_analysis():
+    df = pd.read_csv('report.csv')
+    #print(df.describe())
+    media = df.mean()
+    print("Média dos valores: \n", media)
+
+    mediana = df.median()
+    print("Mediana dos valores: \n", mediana)
+
+    moda = df.mode()
+    print("Moda dos valores: \n", moda)
+
+
+
 def main():
     global replication
     # Numero de replicacoes
@@ -138,6 +167,9 @@ def main():
     max_fpor, min_fpor = max(list_fpor), min(list_fpor)
     max_ic, min_ic = max(list_ic), min(list_ic)
     max_trust_ic, min_trust_ic = max(list_trust_ic), min(list_trust_ic)
+
+    create_df()
+    data_analysis()
 
     print("== Resultados: ==")
     max_min_trust_rep = ("Mínimo e Máximo TRUST_REP: [%f ms; %f ms]" % (min_trust_rep, max_trust_rep))
