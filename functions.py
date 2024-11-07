@@ -1,3 +1,6 @@
+from p2pnetwork.node import Node
+from values import vehicle_1, vehicle_2, ran
+
 def verify_sw(t_v, timestamp):
     inf = t_v - timestamp
     sup = t_v + timestamp
@@ -33,3 +36,10 @@ def return_trust_ic(ic):
 def return_trust_rep(rep):
     return rep >= 3.5
 
+def send_v2v_msg(msg_content):
+    vehicle_1.connect_with_node('127.0.0.1', 8002)
+    return vehicle_1.send_to_node(8002, msg_content)
+
+def send_v2n_msg(msg_content):
+    vehicle_1.connect_with_node('127.4.45.1', 9000)
+    return vehicle_1.send_to_node(9000, msg_content)

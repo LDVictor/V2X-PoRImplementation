@@ -1,9 +1,17 @@
 import random
+from p2pnetwork.node import Node
 
 c_s = fpor_s = []
 t_v = timestamp = t_approx = t_current = rep = 0
 d_approx = d_ran = []
 n = random.randint(1, 20)
+vehicle_1 = Node("127.0.0.1", 8001, 1)
+vehicle_2 = Node("127.0.0.1", 8002, 2)
+ran = Node("127.4.45.1", 9000, 10)
+vehicle_1.start()
+vehicle_2.start()
+ran.start()
+
 
 def clean_lists():
     fpor_s.clear()

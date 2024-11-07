@@ -1,0 +1,5005 @@
+=== Replicação 1 ===
+Duração V2V Msg: 0.155800 ms
+Duração V2N Msg: 0.144100 ms
+
+ 
+=== Replicação 2 ===
+Duração V2V Msg: 0.146000 ms
+Duração V2N Msg: 0.145800 ms
+
+ 
+=== Replicação 3 ===
+Duração V2V Msg: 0.160800 ms
+Duração V2N Msg: 0.145000 ms
+
+ 
+=== Replicação 4 ===
+Duração V2V Msg: 0.159700 ms
+Duração V2N Msg: 0.145700 ms
+
+ 
+=== Replicação 5 ===
+Duração V2V Msg: 0.159000 ms
+Duração V2N Msg: 0.145800 ms
+
+ 
+=== Replicação 6 ===
+Duração V2V Msg: 0.149700 ms
+Duração V2N Msg: 0.145900 ms
+
+ 
+=== Replicação 7 ===
+Duração V2V Msg: 0.160200 ms
+Duração V2N Msg: 0.145900 ms
+
+ 
+=== Replicação 8 ===
+Duração V2V Msg: 0.159700 ms
+Duração V2N Msg: 0.145000 ms
+
+ 
+=== Replicação 9 ===
+Duração V2V Msg: 0.211600 ms
+Duração V2N Msg: 0.146000 ms
+
+ 
+=== Replicação 10 ===
+Duração V2V Msg: 0.149100 ms
+Duração V2N Msg: 0.144800 ms
+
+ 
+=== Replicação 11 ===
+Duração V2V Msg: 0.218900 ms
+Duração V2N Msg: 0.145400 ms
+
+ 
+=== Replicação 12 ===
+Duração V2V Msg: 0.231900 ms
+Duração V2N Msg: 0.148700 ms
+
+ 
+=== Replicação 13 ===
+Duração V2V Msg: 0.160500 ms
+Duração V2N Msg: 0.155300 ms
+
+ 
+=== Replicação 14 ===
+Duração V2V Msg: 0.161300 ms
+Duração V2N Msg: 0.146700 ms
+
+ 
+=== Replicação 15 ===
+Duração V2V Msg: 0.218500 ms
+Duração V2N Msg: 0.145400 ms
+
+ 
+=== Replicação 16 ===
+Duração V2V Msg: 0.208500 ms
+Duração V2N Msg: 0.142000 ms
+
+ 
+=== Replicação 17 ===
+Duração V2V Msg: 0.155300 ms
+Duração V2N Msg: 0.141700 ms
+
+ 
+=== Replicação 18 ===
+Duração V2V Msg: 0.179000 ms
+Duração V2N Msg: 0.148900 ms
+
+ 
+=== Replicação 19 ===
+Duração V2V Msg: 0.252300 ms
+Duração V2N Msg: 0.143300 ms
+
+ 
+=== Replicação 20 ===
+Duração V2V Msg: 0.207800 ms
+Duração V2N Msg: 0.138400 ms
+
+ 
+=== Replicação 21 ===
+Duração V2V Msg: 0.156500 ms
+Duração V2N Msg: 0.183300 ms
+
+ 
+=== Replicação 22 ===
+Duração V2V Msg: 0.219000 ms
+Duração V2N Msg: 0.209400 ms
+
+ 
+=== Replicação 23 ===
+Duração V2V Msg: 0.183300 ms
+Duração V2N Msg: 0.140800 ms
+
+ 
+=== Replicação 24 ===
+Duração V2V Msg: 0.180100 ms
+Duração V2N Msg: 0.141700 ms
+
+ 
+=== Replicação 25 ===
+Duração V2V Msg: 0.154800 ms
+Duração V2N Msg: 0.141300 ms
+
+ 
+=== Replicação 26 ===
+Duração V2V Msg: 0.153200 ms
+Duração V2N Msg: 0.142100 ms
+
+ 
+=== Replicação 27 ===
+Duração V2V Msg: 0.156300 ms
+Duração V2N Msg: 0.141100 ms
+
+ 
+=== Replicação 28 ===
+Duração V2V Msg: 0.154500 ms
+Duração V2N Msg: 0.141400 ms
+
+ 
+=== Replicação 29 ===
+Duração V2V Msg: 0.154100 ms
+Duração V2N Msg: 0.141500 ms
+
+ 
+=== Replicação 30 ===
+Duração V2V Msg: 0.185500 ms
+Duração V2N Msg: 0.143100 ms
+
+ 
+=== Replicação 31 ===
+Duração V2V Msg: 0.216700 ms
+Duração V2N Msg: 0.143200 ms
+
+ 
+=== Replicação 32 ===
+Duração V2V Msg: 0.245300 ms
+Duração V2N Msg: 0.144700 ms
+
+ 
+=== Replicação 33 ===
+Duração V2V Msg: 0.143700 ms
+Duração V2N Msg: 0.176100 ms
+
+ 
+=== Replicação 34 ===
+Duração V2V Msg: 0.149800 ms
+Duração V2N Msg: 0.159400 ms
+
+ 
+=== Replicação 35 ===
+Duração V2V Msg: 0.246700 ms
+Duração V2N Msg: 0.143200 ms
+
+ 
+=== Replicação 36 ===
+Duração V2V Msg: 0.153500 ms
+Duração V2N Msg: 0.141500 ms
+
+ 
+=== Replicação 37 ===
+Duração V2V Msg: 0.154000 ms
+Duração V2N Msg: 0.141400 ms
+
+ 
+=== Replicação 38 ===
+Duração V2V Msg: 0.154700 ms
+Duração V2N Msg: 0.141100 ms
+
+ 
+=== Replicação 39 ===
+Duração V2V Msg: 0.178300 ms
+Duração V2N Msg: 0.142900 ms
+
+ 
+=== Replicação 40 ===
+Duração V2V Msg: 0.155500 ms
+Duração V2N Msg: 0.141900 ms
+
+ 
+=== Replicação 41 ===
+Duração V2V Msg: 0.168500 ms
+Duração V2N Msg: 0.142200 ms
+
+ 
+=== Replicação 42 ===
+Duração V2V Msg: 0.213900 ms
+Duração V2N Msg: 0.140800 ms
+
+ 
+=== Replicação 43 ===
+Duração V2V Msg: 0.444400 ms
+Duração V2N Msg: 0.208000 ms
+
+ 
+=== Replicação 44 ===
+Duração V2V Msg: 0.154100 ms
+Duração V2N Msg: 0.142000 ms
+
+ 
+=== Replicação 45 ===
+Duração V2V Msg: 0.154400 ms
+Duração V2N Msg: 0.141400 ms
+
+ 
+=== Replicação 46 ===
+Duração V2V Msg: 0.157600 ms
+Duração V2N Msg: 0.141300 ms
+
+ 
+=== Replicação 47 ===
+Duração V2V Msg: 0.199200 ms
+Duração V2N Msg: 0.140900 ms
+
+ 
+=== Replicação 48 ===
+Duração V2V Msg: 0.207500 ms
+Duração V2N Msg: 0.140900 ms
+
+ 
+=== Replicação 49 ===
+Duração V2V Msg: 0.144500 ms
+Duração V2N Msg: 0.142200 ms
+
+ 
+=== Replicação 50 ===
+Duração V2V Msg: 0.154300 ms
+Duração V2N Msg: 0.140800 ms
+
+ 
+=== Replicação 51 ===
+Duração V2V Msg: 0.155800 ms
+Duração V2N Msg: 0.141700 ms
+
+ 
+=== Replicação 52 ===
+Duração V2V Msg: 0.197400 ms
+Duração V2N Msg: 0.142900 ms
+
+ 
+=== Replicação 53 ===
+Duração V2V Msg: 0.154800 ms
+Duração V2N Msg: 0.140700 ms
+
+ 
+=== Replicação 54 ===
+Duração V2V Msg: 0.141000 ms
+Duração V2N Msg: 0.137100 ms
+
+ 
+=== Replicação 55 ===
+Duração V2V Msg: 0.184100 ms
+Duração V2N Msg: 0.142300 ms
+
+ 
+=== Replicação 56 ===
+Duração V2V Msg: 0.152500 ms
+Duração V2N Msg: 0.141600 ms
+
+ 
+=== Replicação 57 ===
+Duração V2V Msg: 0.195500 ms
+Duração V2N Msg: 0.144800 ms
+
+ 
+=== Replicação 58 ===
+Duração V2V Msg: 0.200700 ms
+Duração V2N Msg: 0.138800 ms
+
+ 
+=== Replicação 59 ===
+Duração V2V Msg: 0.148400 ms
+Duração V2N Msg: 0.138200 ms
+
+ 
+=== Replicação 60 ===
+Duração V2V Msg: 0.188900 ms
+Duração V2N Msg: 0.138500 ms
+
+ 
+=== Replicação 61 ===
+Duração V2V Msg: 0.178700 ms
+Duração V2N Msg: 0.137700 ms
+
+ 
+=== Replicação 62 ===
+Duração V2V Msg: 0.286900 ms
+Duração V2N Msg: 0.215800 ms
+
+ 
+=== Replicação 63 ===
+Duração V2V Msg: 0.177700 ms
+Duração V2N Msg: 0.137400 ms
+
+ 
+=== Replicação 64 ===
+Duração V2V Msg: 0.186000 ms
+Duração V2N Msg: 0.135800 ms
+
+ 
+=== Replicação 65 ===
+Duração V2V Msg: 0.138300 ms
+Duração V2N Msg: 0.135000 ms
+
+ 
+=== Replicação 66 ===
+Duração V2V Msg: 0.167700 ms
+Duração V2N Msg: 0.227500 ms
+
+ 
+=== Replicação 67 ===
+Duração V2V Msg: 0.227100 ms
+Duração V2N Msg: 0.139300 ms
+
+ 
+=== Replicação 68 ===
+Duração V2V Msg: 0.154300 ms
+Duração V2N Msg: 0.138800 ms
+
+ 
+=== Replicação 69 ===
+Duração V2V Msg: 0.225900 ms
+Duração V2N Msg: 0.137400 ms
+
+ 
+=== Replicação 70 ===
+Duração V2V Msg: 0.213800 ms
+Duração V2N Msg: 0.143300 ms
+
+ 
+=== Replicação 71 ===
+Duração V2V Msg: 0.207600 ms
+Duração V2N Msg: 0.138400 ms
+
+ 
+=== Replicação 72 ===
+Duração V2V Msg: 0.210100 ms
+Duração V2N Msg: 0.138500 ms
+
+ 
+=== Replicação 73 ===
+Duração V2V Msg: 0.263300 ms
+Duração V2N Msg: 0.260600 ms
+
+ 
+=== Replicação 74 ===
+Duração V2V Msg: 0.233500 ms
+Duração V2N Msg: 0.139800 ms
+
+ 
+=== Replicação 75 ===
+Duração V2V Msg: 0.261600 ms
+Duração V2N Msg: 0.142500 ms
+
+ 
+=== Replicação 76 ===
+Duração V2V Msg: 0.164900 ms
+Duração V2N Msg: 0.143500 ms
+
+ 
+=== Replicação 77 ===
+Duração V2V Msg: 0.210200 ms
+Duração V2N Msg: 0.139200 ms
+
+ 
+=== Replicação 78 ===
+Duração V2V Msg: 0.179800 ms
+Duração V2N Msg: 0.138100 ms
+
+ 
+=== Replicação 79 ===
+Duração V2V Msg: 0.182000 ms
+Duração V2N Msg: 0.206300 ms
+
+ 
+=== Replicação 80 ===
+Duração V2V Msg: 0.141700 ms
+Duração V2N Msg: 0.145700 ms
+
+ 
+=== Replicação 81 ===
+Duração V2V Msg: 0.173800 ms
+Duração V2N Msg: 0.138400 ms
+
+ 
+=== Replicação 82 ===
+Duração V2V Msg: 0.182400 ms
+Duração V2N Msg: 0.140000 ms
+
+ 
+=== Replicação 83 ===
+Duração V2V Msg: 0.173100 ms
+Duração V2N Msg: 0.135900 ms
+
+ 
+=== Replicação 84 ===
+Duração V2V Msg: 0.141000 ms
+Duração V2N Msg: 0.137700 ms
+
+ 
+=== Replicação 85 ===
+Duração V2V Msg: 0.142900 ms
+Duração V2N Msg: 0.179500 ms
+
+ 
+=== Replicação 86 ===
+Duração V2V Msg: 0.147000 ms
+Duração V2N Msg: 0.138400 ms
+
+ 
+=== Replicação 87 ===
+Duração V2V Msg: 0.171300 ms
+Duração V2N Msg: 0.139900 ms
+
+ 
+=== Replicação 88 ===
+Duração V2V Msg: 0.141700 ms
+Duração V2N Msg: 0.136800 ms
+
+ 
+=== Replicação 89 ===
+Duração V2V Msg: 0.153800 ms
+Duração V2N Msg: 0.138900 ms
+
+ 
+=== Replicação 90 ===
+Duração V2V Msg: 0.148800 ms
+Duração V2N Msg: 0.144800 ms
+
+ 
+=== Replicação 91 ===
+Duração V2V Msg: 0.141300 ms
+Duração V2N Msg: 0.144500 ms
+
+ 
+=== Replicação 92 ===
+Duração V2V Msg: 0.218200 ms
+Duração V2N Msg: 0.138400 ms
+
+ 
+=== Replicação 93 ===
+Duração V2V Msg: 0.145800 ms
+Duração V2N Msg: 0.138100 ms
+
+ 
+=== Replicação 94 ===
+Duração V2V Msg: 0.174900 ms
+Duração V2N Msg: 0.139200 ms
+
+ 
+=== Replicação 95 ===
+Duração V2V Msg: 0.142900 ms
+Duração V2N Msg: 0.137400 ms
+
+ 
+=== Replicação 96 ===
+Duração V2V Msg: 0.142000 ms
+Duração V2N Msg: 0.143000 ms
+
+ 
+=== Replicação 97 ===
+Duração V2V Msg: 0.135100 ms
+Duração V2N Msg: 0.143600 ms
+
+ 
+=== Replicação 98 ===
+Duração V2V Msg: 0.138300 ms
+Duração V2N Msg: 0.136900 ms
+
+ 
+=== Replicação 99 ===
+Duração V2V Msg: 0.209600 ms
+Duração V2N Msg: 0.145000 ms
+
+ 
+=== Replicação 100 ===
+Duração V2V Msg: 0.149400 ms
+Duração V2N Msg: 0.128000 ms
+
+ 
+=== Replicação 101 ===
+Duração V2V Msg: 0.266100 ms
+Duração V2N Msg: 0.142100 ms
+
+ 
+=== Replicação 102 ===
+Duração V2V Msg: 0.217600 ms
+Duração V2N Msg: 0.135700 ms
+
+ 
+=== Replicação 103 ===
+Duração V2V Msg: 0.138100 ms
+Duração V2N Msg: 0.134700 ms
+
+ 
+=== Replicação 104 ===
+Duração V2V Msg: 0.149700 ms
+Duração V2N Msg: 0.135400 ms
+
+ 
+=== Replicação 105 ===
+Duração V2V Msg: 0.142400 ms
+Duração V2N Msg: 0.132300 ms
+
+ 
+=== Replicação 106 ===
+Duração V2V Msg: 0.143300 ms
+Duração V2N Msg: 0.134500 ms
+
+ 
+=== Replicação 107 ===
+Duração V2V Msg: 0.138200 ms
+Duração V2N Msg: 0.135600 ms
+
+ 
+=== Replicação 108 ===
+Duração V2V Msg: 0.142200 ms
+Duração V2N Msg: 0.193200 ms
+
+ 
+=== Replicação 109 ===
+Duração V2V Msg: 0.155900 ms
+Duração V2N Msg: 0.142400 ms
+
+ 
+=== Replicação 110 ===
+Duração V2V Msg: 0.191800 ms
+Duração V2N Msg: 0.138800 ms
+
+ 
+=== Replicação 111 ===
+Duração V2V Msg: 0.183000 ms
+Duração V2N Msg: 0.163800 ms
+
+ 
+=== Replicação 112 ===
+Duração V2V Msg: 0.161300 ms
+Duração V2N Msg: 0.269400 ms
+
+ 
+=== Replicação 113 ===
+Duração V2V Msg: 0.170000 ms
+Duração V2N Msg: 0.168200 ms
+
+ 
+=== Replicação 114 ===
+Duração V2V Msg: 0.148300 ms
+Duração V2N Msg: 0.140400 ms
+
+ 
+=== Replicação 115 ===
+Duração V2V Msg: 0.138800 ms
+Duração V2N Msg: 0.134600 ms
+
+ 
+=== Replicação 116 ===
+Duração V2V Msg: 0.146000 ms
+Duração V2N Msg: 0.133800 ms
+
+ 
+=== Replicação 117 ===
+Duração V2V Msg: 0.127400 ms
+Duração V2N Msg: 0.154800 ms
+
+ 
+=== Replicação 118 ===
+Duração V2V Msg: 0.143300 ms
+Duração V2N Msg: 0.141300 ms
+
+ 
+=== Replicação 119 ===
+Duração V2V Msg: 0.152600 ms
+Duração V2N Msg: 0.142600 ms
+
+ 
+=== Replicação 120 ===
+Duração V2V Msg: 0.138600 ms
+Duração V2N Msg: 0.139800 ms
+
+ 
+=== Replicação 121 ===
+Duração V2V Msg: 0.145500 ms
+Duração V2N Msg: 0.138000 ms
+
+ 
+=== Replicação 122 ===
+Duração V2V Msg: 0.141100 ms
+Duração V2N Msg: 0.133800 ms
+
+ 
+=== Replicação 123 ===
+Duração V2V Msg: 0.149300 ms
+Duração V2N Msg: 0.157600 ms
+
+ 
+=== Replicação 124 ===
+Duração V2V Msg: 0.140600 ms
+Duração V2N Msg: 0.144800 ms
+
+ 
+=== Replicação 125 ===
+Duração V2V Msg: 0.221400 ms
+Duração V2N Msg: 0.140300 ms
+
+ 
+=== Replicação 126 ===
+Duração V2V Msg: 0.141800 ms
+Duração V2N Msg: 0.135200 ms
+
+ 
+=== Replicação 127 ===
+Duração V2V Msg: 0.135500 ms
+Duração V2N Msg: 0.152400 ms
+
+ 
+=== Replicação 128 ===
+Duração V2V Msg: 0.132600 ms
+Duração V2N Msg: 0.148100 ms
+
+ 
+=== Replicação 129 ===
+Duração V2V Msg: 0.139100 ms
+Duração V2N Msg: 0.134300 ms
+
+ 
+=== Replicação 130 ===
+Duração V2V Msg: 0.284800 ms
+Duração V2N Msg: 0.136900 ms
+
+ 
+=== Replicação 131 ===
+Duração V2V Msg: 0.135500 ms
+Duração V2N Msg: 0.132900 ms
+
+ 
+=== Replicação 132 ===
+Duração V2V Msg: 0.137100 ms
+Duração V2N Msg: 0.138000 ms
+
+ 
+=== Replicação 133 ===
+Duração V2V Msg: 0.130600 ms
+Duração V2N Msg: 0.135400 ms
+
+ 
+=== Replicação 134 ===
+Duração V2V Msg: 0.135700 ms
+Duração V2N Msg: 0.144100 ms
+
+ 
+=== Replicação 135 ===
+Duração V2V Msg: 0.144100 ms
+Duração V2N Msg: 0.130700 ms
+
+ 
+=== Replicação 136 ===
+Duração V2V Msg: 0.152500 ms
+Duração V2N Msg: 0.136700 ms
+
+ 
+=== Replicação 137 ===
+Duração V2V Msg: 0.142300 ms
+Duração V2N Msg: 0.135600 ms
+
+ 
+=== Replicação 138 ===
+Duração V2V Msg: 0.140000 ms
+Duração V2N Msg: 0.132100 ms
+
+ 
+=== Replicação 139 ===
+Duração V2V Msg: 0.139500 ms
+Duração V2N Msg: 0.165800 ms
+
+ 
+=== Replicação 140 ===
+Duração V2V Msg: 0.138100 ms
+Duração V2N Msg: 0.136600 ms
+
+ 
+=== Replicação 141 ===
+Duração V2V Msg: 0.136100 ms
+Duração V2N Msg: 0.149000 ms
+
+ 
+=== Replicação 142 ===
+Duração V2V Msg: 0.140400 ms
+Duração V2N Msg: 0.137400 ms
+
+ 
+=== Replicação 143 ===
+Duração V2V Msg: 0.149400 ms
+Duração V2N Msg: 0.135300 ms
+
+ 
+=== Replicação 144 ===
+Duração V2V Msg: 0.144700 ms
+Duração V2N Msg: 0.129900 ms
+
+ 
+=== Replicação 145 ===
+Duração V2V Msg: 0.130600 ms
+Duração V2N Msg: 0.135400 ms
+
+ 
+=== Replicação 146 ===
+Duração V2V Msg: 0.144800 ms
+Duração V2N Msg: 0.137600 ms
+
+ 
+=== Replicação 147 ===
+Duração V2V Msg: 0.210300 ms
+Duração V2N Msg: 0.256700 ms
+
+ 
+=== Replicação 148 ===
+Duração V2V Msg: 0.177900 ms
+Duração V2N Msg: 0.136500 ms
+
+ 
+=== Replicação 149 ===
+Duração V2V Msg: 0.141100 ms
+Duração V2N Msg: 0.134800 ms
+
+ 
+=== Replicação 150 ===
+Duração V2V Msg: 0.136000 ms
+Duração V2N Msg: 0.164800 ms
+
+ 
+=== Replicação 151 ===
+Duração V2V Msg: 0.137500 ms
+Duração V2N Msg: 0.144900 ms
+
+ 
+=== Replicação 152 ===
+Duração V2V Msg: 0.142600 ms
+Duração V2N Msg: 0.128400 ms
+
+ 
+=== Replicação 153 ===
+Duração V2V Msg: 0.142100 ms
+Duração V2N Msg: 0.133300 ms
+
+ 
+=== Replicação 154 ===
+Duração V2V Msg: 0.132000 ms
+Duração V2N Msg: 0.120600 ms
+
+ 
+=== Replicação 155 ===
+Duração V2V Msg: 0.133400 ms
+Duração V2N Msg: 0.131000 ms
+
+ 
+=== Replicação 156 ===
+Duração V2V Msg: 0.140400 ms
+Duração V2N Msg: 0.142400 ms
+
+ 
+=== Replicação 157 ===
+Duração V2V Msg: 0.132000 ms
+Duração V2N Msg: 0.143000 ms
+
+ 
+=== Replicação 158 ===
+Duração V2V Msg: 0.129700 ms
+Duração V2N Msg: 0.140400 ms
+
+ 
+=== Replicação 159 ===
+Duração V2V Msg: 0.124900 ms
+Duração V2N Msg: 0.145600 ms
+
+ 
+=== Replicação 160 ===
+Duração V2V Msg: 0.138000 ms
+Duração V2N Msg: 0.144200 ms
+
+ 
+=== Replicação 161 ===
+Duração V2V Msg: 0.127100 ms
+Duração V2N Msg: 0.137100 ms
+
+ 
+=== Replicação 162 ===
+Duração V2V Msg: 0.141700 ms
+Duração V2N Msg: 0.178800 ms
+
+ 
+=== Replicação 163 ===
+Duração V2V Msg: 0.132500 ms
+Duração V2N Msg: 0.141400 ms
+
+ 
+=== Replicação 164 ===
+Duração V2V Msg: 0.138500 ms
+Duração V2N Msg: 0.138900 ms
+
+ 
+=== Replicação 165 ===
+Duração V2V Msg: 0.136400 ms
+Duração V2N Msg: 0.166400 ms
+
+ 
+=== Replicação 166 ===
+Duração V2V Msg: 0.226000 ms
+Duração V2N Msg: 0.167200 ms
+
+ 
+=== Replicação 167 ===
+Duração V2V Msg: 0.130000 ms
+Duração V2N Msg: 0.129800 ms
+
+ 
+=== Replicação 168 ===
+Duração V2V Msg: 0.136800 ms
+Duração V2N Msg: 0.129000 ms
+
+ 
+=== Replicação 169 ===
+Duração V2V Msg: 0.142000 ms
+Duração V2N Msg: 0.137400 ms
+
+ 
+=== Replicação 170 ===
+Duração V2V Msg: 0.140100 ms
+Duração V2N Msg: 0.155900 ms
+
+ 
+=== Replicação 171 ===
+Duração V2V Msg: 0.130700 ms
+Duração V2N Msg: 0.147500 ms
+
+ 
+=== Replicação 172 ===
+Duração V2V Msg: 0.139300 ms
+Duração V2N Msg: 0.136500 ms
+
+ 
+=== Replicação 173 ===
+Duração V2V Msg: 0.130500 ms
+Duração V2N Msg: 0.142500 ms
+
+ 
+=== Replicação 174 ===
+Duração V2V Msg: 0.142200 ms
+Duração V2N Msg: 0.140900 ms
+
+ 
+=== Replicação 175 ===
+Duração V2V Msg: 0.175800 ms
+Duração V2N Msg: 0.131600 ms
+
+ 
+=== Replicação 176 ===
+Duração V2V Msg: 0.147900 ms
+Duração V2N Msg: 0.135000 ms
+
+ 
+=== Replicação 177 ===
+Duração V2V Msg: 0.133300 ms
+Duração V2N Msg: 0.135200 ms
+
+ 
+=== Replicação 178 ===
+Duração V2V Msg: 0.133900 ms
+Duração V2N Msg: 0.128600 ms
+
+ 
+=== Replicação 179 ===
+Duração V2V Msg: 0.135800 ms
+Duração V2N Msg: 0.131400 ms
+
+ 
+=== Replicação 180 ===
+Duração V2V Msg: 0.137000 ms
+Duração V2N Msg: 0.133000 ms
+
+ 
+=== Replicação 181 ===
+Duração V2V Msg: 0.132600 ms
+Duração V2N Msg: 0.129200 ms
+
+ 
+=== Replicação 182 ===
+Duração V2V Msg: 0.130500 ms
+Duração V2N Msg: 0.126600 ms
+
+ 
+=== Replicação 183 ===
+Duração V2V Msg: 0.130500 ms
+Duração V2N Msg: 0.130200 ms
+
+ 
+=== Replicação 184 ===
+Duração V2V Msg: 0.131100 ms
+Duração V2N Msg: 0.130300 ms
+
+ 
+=== Replicação 185 ===
+Duração V2V Msg: 0.134000 ms
+Duração V2N Msg: 0.131200 ms
+
+ 
+=== Replicação 186 ===
+Duração V2V Msg: 0.134600 ms
+Duração V2N Msg: 0.129300 ms
+
+ 
+=== Replicação 187 ===
+Duração V2V Msg: 0.130300 ms
+Duração V2N Msg: 0.135000 ms
+
+ 
+=== Replicação 188 ===
+Duração V2V Msg: 0.134300 ms
+Duração V2N Msg: 0.131900 ms
+
+ 
+=== Replicação 189 ===
+Duração V2V Msg: 0.128400 ms
+Duração V2N Msg: 0.125900 ms
+
+ 
+=== Replicação 190 ===
+Duração V2V Msg: 0.128500 ms
+Duração V2N Msg: 0.127200 ms
+
+ 
+=== Replicação 191 ===
+Duração V2V Msg: 0.130000 ms
+Duração V2N Msg: 0.135000 ms
+
+ 
+=== Replicação 192 ===
+Duração V2V Msg: 0.134700 ms
+Duração V2N Msg: 0.132800 ms
+
+ 
+=== Replicação 193 ===
+Duração V2V Msg: 0.133600 ms
+Duração V2N Msg: 0.130300 ms
+
+ 
+=== Replicação 194 ===
+Duração V2V Msg: 0.130700 ms
+Duração V2N Msg: 0.129900 ms
+
+ 
+=== Replicação 195 ===
+Duração V2V Msg: 0.136600 ms
+Duração V2N Msg: 0.246900 ms
+
+ 
+=== Replicação 196 ===
+Duração V2V Msg: 0.135300 ms
+Duração V2N Msg: 0.138000 ms
+
+ 
+=== Replicação 197 ===
+Duração V2V Msg: 0.132500 ms
+Duração V2N Msg: 0.130100 ms
+
+ 
+=== Replicação 198 ===
+Duração V2V Msg: 0.133600 ms
+Duração V2N Msg: 0.136800 ms
+
+ 
+=== Replicação 199 ===
+Duração V2V Msg: 0.134000 ms
+Duração V2N Msg: 0.128200 ms
+
+ 
+=== Replicação 200 ===
+Duração V2V Msg: 0.129100 ms
+Duração V2N Msg: 0.127500 ms
+
+ 
+=== Replicação 201 ===
+Duração V2V Msg: 0.127200 ms
+Duração V2N Msg: 0.125800 ms
+
+ 
+=== Replicação 202 ===
+Duração V2V Msg: 0.126700 ms
+Duração V2N Msg: 0.135300 ms
+
+ 
+=== Replicação 203 ===
+Duração V2V Msg: 0.127800 ms
+Duração V2N Msg: 0.126400 ms
+
+ 
+=== Replicação 204 ===
+Duração V2V Msg: 0.129200 ms
+Duração V2N Msg: 0.126200 ms
+
+ 
+=== Replicação 205 ===
+Duração V2V Msg: 0.126300 ms
+Duração V2N Msg: 0.126200 ms
+
+ 
+=== Replicação 206 ===
+Duração V2V Msg: 0.126900 ms
+Duração V2N Msg: 0.126200 ms
+
+ 
+=== Replicação 207 ===
+Duração V2V Msg: 0.128200 ms
+Duração V2N Msg: 0.126600 ms
+
+ 
+=== Replicação 208 ===
+Duração V2V Msg: 0.125800 ms
+Duração V2N Msg: 0.123900 ms
+
+ 
+=== Replicação 209 ===
+Duração V2V Msg: 0.126300 ms
+Duração V2N Msg: 0.126100 ms
+
+ 
+=== Replicação 210 ===
+Duração V2V Msg: 0.126700 ms
+Duração V2N Msg: 0.126800 ms
+
+ 
+=== Replicação 211 ===
+Duração V2V Msg: 0.130600 ms
+Duração V2N Msg: 0.126600 ms
+
+ 
+=== Replicação 212 ===
+Duração V2V Msg: 0.126800 ms
+Duração V2N Msg: 0.125800 ms
+
+ 
+=== Replicação 213 ===
+Duração V2V Msg: 0.126200 ms
+Duração V2N Msg: 0.126000 ms
+
+ 
+=== Replicação 214 ===
+Duração V2V Msg: 0.130000 ms
+Duração V2N Msg: 0.126300 ms
+
+ 
+=== Replicação 215 ===
+Duração V2V Msg: 0.126300 ms
+Duração V2N Msg: 0.125400 ms
+
+ 
+=== Replicação 216 ===
+Duração V2V Msg: 0.129900 ms
+Duração V2N Msg: 0.125800 ms
+
+ 
+=== Replicação 217 ===
+Duração V2V Msg: 0.129000 ms
+Duração V2N Msg: 0.127400 ms
+
+ 
+=== Replicação 218 ===
+Duração V2V Msg: 0.134700 ms
+Duração V2N Msg: 0.125600 ms
+
+ 
+=== Replicação 219 ===
+Duração V2V Msg: 0.127000 ms
+Duração V2N Msg: 0.125000 ms
+
+ 
+=== Replicação 220 ===
+Duração V2V Msg: 0.148100 ms
+Duração V2N Msg: 0.125800 ms
+
+ 
+=== Replicação 221 ===
+Duração V2V Msg: 0.133700 ms
+Duração V2N Msg: 0.128000 ms
+
+ 
+=== Replicação 222 ===
+Duração V2V Msg: 0.137600 ms
+Duração V2N Msg: 0.126300 ms
+
+ 
+=== Replicação 223 ===
+Duração V2V Msg: 0.132100 ms
+Duração V2N Msg: 0.129100 ms
+
+ 
+=== Replicação 224 ===
+Duração V2V Msg: 0.129200 ms
+Duração V2N Msg: 0.126700 ms
+
+ 
+=== Replicação 225 ===
+Duração V2V Msg: 0.128700 ms
+Duração V2N Msg: 0.136300 ms
+
+ 
+=== Replicação 226 ===
+Duração V2V Msg: 0.130900 ms
+Duração V2N Msg: 0.131100 ms
+
+ 
+=== Replicação 227 ===
+Duração V2V Msg: 0.168900 ms
+Duração V2N Msg: 0.126100 ms
+
+ 
+=== Replicação 228 ===
+Duração V2V Msg: 0.133900 ms
+Duração V2N Msg: 0.134200 ms
+
+ 
+=== Replicação 229 ===
+Duração V2V Msg: 0.129200 ms
+Duração V2N Msg: 0.133700 ms
+
+ 
+=== Replicação 230 ===
+Duração V2V Msg: 0.128500 ms
+Duração V2N Msg: 0.128200 ms
+
+ 
+=== Replicação 231 ===
+Duração V2V Msg: 0.127000 ms
+Duração V2N Msg: 0.128300 ms
+
+ 
+=== Replicação 232 ===
+Duração V2V Msg: 0.131100 ms
+Duração V2N Msg: 0.131800 ms
+
+ 
+=== Replicação 233 ===
+Duração V2V Msg: 0.130700 ms
+Duração V2N Msg: 0.143800 ms
+
+ 
+=== Replicação 234 ===
+Duração V2V Msg: 0.135200 ms
+Duração V2N Msg: 0.128700 ms
+
+ 
+=== Replicação 235 ===
+Duração V2V Msg: 0.128600 ms
+Duração V2N Msg: 0.169300 ms
+
+ 
+=== Replicação 236 ===
+Duração V2V Msg: 0.129100 ms
+Duração V2N Msg: 0.128400 ms
+
+ 
+=== Replicação 237 ===
+Duração V2V Msg: 0.127700 ms
+Duração V2N Msg: 0.127500 ms
+
+ 
+=== Replicação 238 ===
+Duração V2V Msg: 0.128100 ms
+Duração V2N Msg: 0.127200 ms
+
+ 
+=== Replicação 239 ===
+Duração V2V Msg: 0.128100 ms
+Duração V2N Msg: 0.127100 ms
+
+ 
+=== Replicação 240 ===
+Duração V2V Msg: 0.133400 ms
+Duração V2N Msg: 0.128900 ms
+
+ 
+=== Replicação 241 ===
+Duração V2V Msg: 0.127900 ms
+Duração V2N Msg: 0.169900 ms
+
+ 
+=== Replicação 242 ===
+Duração V2V Msg: 0.127200 ms
+Duração V2N Msg: 0.171600 ms
+
+ 
+=== Replicação 243 ===
+Duração V2V Msg: 0.149400 ms
+Duração V2N Msg: 0.136600 ms
+
+ 
+=== Replicação 244 ===
+Duração V2V Msg: 0.132300 ms
+Duração V2N Msg: 0.167800 ms
+
+ 
+=== Replicação 245 ===
+Duração V2V Msg: 0.166800 ms
+Duração V2N Msg: 0.128400 ms
+
+ 
+=== Replicação 246 ===
+Duração V2V Msg: 0.135300 ms
+Duração V2N Msg: 0.128200 ms
+
+ 
+=== Replicação 247 ===
+Duração V2V Msg: 0.194600 ms
+Duração V2N Msg: 0.127500 ms
+
+ 
+=== Replicação 248 ===
+Duração V2V Msg: 0.130400 ms
+Duração V2N Msg: 0.128300 ms
+
+ 
+=== Replicação 249 ===
+Duração V2V Msg: 0.131200 ms
+Duração V2N Msg: 0.182100 ms
+
+ 
+=== Replicação 250 ===
+Duração V2V Msg: 0.159400 ms
+Duração V2N Msg: 0.128500 ms
+
+ 
+=== Replicação 251 ===
+Duração V2V Msg: 0.159900 ms
+Duração V2N Msg: 0.128900 ms
+
+ 
+=== Replicação 252 ===
+Duração V2V Msg: 0.160600 ms
+Duração V2N Msg: 0.126700 ms
+
+ 
+=== Replicação 253 ===
+Duração V2V Msg: 0.135600 ms
+Duração V2N Msg: 0.135100 ms
+
+ 
+=== Replicação 254 ===
+Duração V2V Msg: 0.140500 ms
+Duração V2N Msg: 0.134900 ms
+
+ 
+=== Replicação 255 ===
+Duração V2V Msg: 0.167700 ms
+Duração V2N Msg: 0.131400 ms
+
+ 
+=== Replicação 256 ===
+Duração V2V Msg: 0.131900 ms
+Duração V2N Msg: 0.136000 ms
+
+ 
+=== Replicação 257 ===
+Duração V2V Msg: 0.157400 ms
+Duração V2N Msg: 0.129900 ms
+
+ 
+=== Replicação 258 ===
+Duração V2V Msg: 0.139400 ms
+Duração V2N Msg: 0.128500 ms
+
+ 
+=== Replicação 259 ===
+Duração V2V Msg: 0.156300 ms
+Duração V2N Msg: 0.128600 ms
+
+ 
+=== Replicação 260 ===
+Duração V2V Msg: 0.177800 ms
+Duração V2N Msg: 0.128900 ms
+
+ 
+=== Replicação 261 ===
+Duração V2V Msg: 0.164600 ms
+Duração V2N Msg: 0.159600 ms
+
+ 
+=== Replicação 262 ===
+Duração V2V Msg: 0.166300 ms
+Duração V2N Msg: 0.128000 ms
+
+ 
+=== Replicação 263 ===
+Duração V2V Msg: 0.158300 ms
+Duração V2N Msg: 0.123900 ms
+
+ 
+=== Replicação 264 ===
+Duração V2V Msg: 0.146400 ms
+Duração V2N Msg: 0.133000 ms
+
+ 
+=== Replicação 265 ===
+Duração V2V Msg: 0.130800 ms
+Duração V2N Msg: 0.130000 ms
+
+ 
+=== Replicação 266 ===
+Duração V2V Msg: 0.133400 ms
+Duração V2N Msg: 0.133500 ms
+
+ 
+=== Replicação 267 ===
+Duração V2V Msg: 0.197600 ms
+Duração V2N Msg: 0.132900 ms
+
+ 
+=== Replicação 268 ===
+Duração V2V Msg: 0.154900 ms
+Duração V2N Msg: 0.130500 ms
+
+ 
+=== Replicação 269 ===
+Duração V2V Msg: 0.132200 ms
+Duração V2N Msg: 0.131200 ms
+
+ 
+=== Replicação 270 ===
+Duração V2V Msg: 0.134600 ms
+Duração V2N Msg: 0.162800 ms
+
+ 
+=== Replicação 271 ===
+Duração V2V Msg: 0.142700 ms
+Duração V2N Msg: 0.131900 ms
+
+ 
+=== Replicação 272 ===
+Duração V2V Msg: 0.201200 ms
+Duração V2N Msg: 0.151700 ms
+
+ 
+=== Replicação 273 ===
+Duração V2V Msg: 0.200900 ms
+Duração V2N Msg: 0.130300 ms
+
+ 
+=== Replicação 274 ===
+Duração V2V Msg: 0.136200 ms
+Duração V2N Msg: 0.131100 ms
+
+ 
+=== Replicação 275 ===
+Duração V2V Msg: 0.139700 ms
+Duração V2N Msg: 0.132300 ms
+
+ 
+=== Replicação 276 ===
+Duração V2V Msg: 0.144400 ms
+Duração V2N Msg: 0.132000 ms
+
+ 
+=== Replicação 277 ===
+Duração V2V Msg: 0.136700 ms
+Duração V2N Msg: 0.131300 ms
+
+ 
+=== Replicação 278 ===
+Duração V2V Msg: 0.213200 ms
+Duração V2N Msg: 0.128400 ms
+
+ 
+=== Replicação 279 ===
+Duração V2V Msg: 0.157900 ms
+Duração V2N Msg: 0.136900 ms
+
+ 
+=== Replicação 280 ===
+Duração V2V Msg: 0.157500 ms
+Duração V2N Msg: 0.142600 ms
+
+ 
+=== Replicação 281 ===
+Duração V2V Msg: 0.209100 ms
+Duração V2N Msg: 0.132200 ms
+
+ 
+=== Replicação 282 ===
+Duração V2V Msg: 0.194000 ms
+Duração V2N Msg: 0.132800 ms
+
+ 
+=== Replicação 283 ===
+Duração V2V Msg: 0.176600 ms
+Duração V2N Msg: 0.199600 ms
+
+ 
+=== Replicação 284 ===
+Duração V2V Msg: 0.162200 ms
+Duração V2N Msg: 0.249800 ms
+
+ 
+=== Replicação 285 ===
+Duração V2V Msg: 0.137300 ms
+Duração V2N Msg: 0.139400 ms
+
+ 
+=== Replicação 286 ===
+Duração V2V Msg: 0.156900 ms
+Duração V2N Msg: 0.130600 ms
+
+ 
+=== Replicação 287 ===
+Duração V2V Msg: 0.195700 ms
+Duração V2N Msg: 0.131100 ms
+
+ 
+=== Replicação 288 ===
+Duração V2V Msg: 0.161000 ms
+Duração V2N Msg: 0.130500 ms
+
+ 
+=== Replicação 289 ===
+Duração V2V Msg: 0.131000 ms
+Duração V2N Msg: 0.132300 ms
+
+ 
+=== Replicação 290 ===
+Duração V2V Msg: 0.191600 ms
+Duração V2N Msg: 0.135500 ms
+
+ 
+=== Replicação 291 ===
+Duração V2V Msg: 0.201800 ms
+Duração V2N Msg: 0.131400 ms
+
+ 
+=== Replicação 292 ===
+Duração V2V Msg: 0.132200 ms
+Duração V2N Msg: 0.129800 ms
+
+ 
+=== Replicação 293 ===
+Duração V2V Msg: 0.133300 ms
+Duração V2N Msg: 0.130200 ms
+
+ 
+=== Replicação 294 ===
+Duração V2V Msg: 0.168800 ms
+Duração V2N Msg: 0.226400 ms
+
+ 
+=== Replicação 295 ===
+Duração V2V Msg: 0.180400 ms
+Duração V2N Msg: 0.132400 ms
+
+ 
+=== Replicação 296 ===
+Duração V2V Msg: 0.211600 ms
+Duração V2N Msg: 0.133300 ms
+
+ 
+=== Replicação 297 ===
+Duração V2V Msg: 0.136100 ms
+Duração V2N Msg: 0.132500 ms
+
+ 
+=== Replicação 298 ===
+Duração V2V Msg: 0.156200 ms
+Duração V2N Msg: 0.129500 ms
+
+ 
+=== Replicação 299 ===
+Duração V2V Msg: 0.132700 ms
+Duração V2N Msg: 0.131200 ms
+
+ 
+=== Replicação 300 ===
+Duração V2V Msg: 0.135600 ms
+Duração V2N Msg: 0.131700 ms
+
+ 
+=== Replicação 301 ===
+Duração V2V Msg: 0.173500 ms
+Duração V2N Msg: 0.133900 ms
+
+ 
+=== Replicação 302 ===
+Duração V2V Msg: 0.147700 ms
+Duração V2N Msg: 0.130300 ms
+
+ 
+=== Replicação 303 ===
+Duração V2V Msg: 0.128500 ms
+Duração V2N Msg: 0.127300 ms
+
+ 
+=== Replicação 304 ===
+Duração V2V Msg: 0.145400 ms
+Duração V2N Msg: 0.123800 ms
+
+ 
+=== Replicação 305 ===
+Duração V2V Msg: 0.242200 ms
+Duração V2N Msg: 0.166300 ms
+
+ 
+=== Replicação 306 ===
+Duração V2V Msg: 0.133000 ms
+Duração V2N Msg: 0.131000 ms
+
+ 
+=== Replicação 307 ===
+Duração V2V Msg: 0.131300 ms
+Duração V2N Msg: 0.136600 ms
+
+ 
+=== Replicação 308 ===
+Duração V2V Msg: 0.203900 ms
+Duração V2N Msg: 0.132100 ms
+
+ 
+=== Replicação 309 ===
+Duração V2V Msg: 0.132400 ms
+Duração V2N Msg: 0.130800 ms
+
+ 
+=== Replicação 310 ===
+Duração V2V Msg: 0.161700 ms
+Duração V2N Msg: 0.128600 ms
+
+ 
+=== Replicação 311 ===
+Duração V2V Msg: 0.161600 ms
+Duração V2N Msg: 0.130300 ms
+
+ 
+=== Replicação 312 ===
+Duração V2V Msg: 0.135500 ms
+Duração V2N Msg: 0.167000 ms
+
+ 
+=== Replicação 313 ===
+Duração V2V Msg: 0.163400 ms
+Duração V2N Msg: 0.130000 ms
+
+ 
+=== Replicação 314 ===
+Duração V2V Msg: 0.150300 ms
+Duração V2N Msg: 0.130500 ms
+
+ 
+=== Replicação 315 ===
+Duração V2V Msg: 0.196200 ms
+Duração V2N Msg: 0.139700 ms
+
+ 
+=== Replicação 316 ===
+Duração V2V Msg: 0.144400 ms
+Duração V2N Msg: 0.131000 ms
+
+ 
+=== Replicação 317 ===
+Duração V2V Msg: 0.132800 ms
+Duração V2N Msg: 0.307900 ms
+
+ 
+=== Replicação 318 ===
+Duração V2V Msg: 0.166600 ms
+Duração V2N Msg: 0.131400 ms
+
+ 
+=== Replicação 319 ===
+Duração V2V Msg: 0.196600 ms
+Duração V2N Msg: 0.130200 ms
+
+ 
+=== Replicação 320 ===
+Duração V2V Msg: 0.205400 ms
+Duração V2N Msg: 0.132200 ms
+
+ 
+=== Replicação 321 ===
+Duração V2V Msg: 0.162100 ms
+Duração V2N Msg: 0.136600 ms
+
+ 
+=== Replicação 322 ===
+Duração V2V Msg: 0.161100 ms
+Duração V2N Msg: 0.131100 ms
+
+ 
+=== Replicação 323 ===
+Duração V2V Msg: 0.161600 ms
+Duração V2N Msg: 0.147600 ms
+
+ 
+=== Replicação 324 ===
+Duração V2V Msg: 0.159800 ms
+Duração V2N Msg: 0.130700 ms
+
+ 
+=== Replicação 325 ===
+Duração V2V Msg: 0.181300 ms
+Duração V2N Msg: 0.129900 ms
+
+ 
+=== Replicação 326 ===
+Duração V2V Msg: 0.142000 ms
+Duração V2N Msg: 0.130600 ms
+
+ 
+=== Replicação 327 ===
+Duração V2V Msg: 0.213300 ms
+Duração V2N Msg: 0.164900 ms
+
+ 
+=== Replicação 328 ===
+Duração V2V Msg: 0.133900 ms
+Duração V2N Msg: 0.130900 ms
+
+ 
+=== Replicação 329 ===
+Duração V2V Msg: 0.131100 ms
+Duração V2N Msg: 0.125200 ms
+
+ 
+=== Replicação 330 ===
+Duração V2V Msg: 0.216900 ms
+Duração V2N Msg: 0.130800 ms
+
+ 
+=== Replicação 331 ===
+Duração V2V Msg: 0.160700 ms
+Duração V2N Msg: 0.130700 ms
+
+ 
+=== Replicação 332 ===
+Duração V2V Msg: 0.158700 ms
+Duração V2N Msg: 0.136200 ms
+
+ 
+=== Replicação 333 ===
+Duração V2V Msg: 0.171900 ms
+Duração V2N Msg: 0.165900 ms
+
+ 
+=== Replicação 334 ===
+Duração V2V Msg: 0.161500 ms
+Duração V2N Msg: 0.133700 ms
+
+ 
+=== Replicação 335 ===
+Duração V2V Msg: 0.135800 ms
+Duração V2N Msg: 0.138000 ms
+
+ 
+=== Replicação 336 ===
+Duração V2V Msg: 0.133300 ms
+Duração V2N Msg: 0.130100 ms
+
+ 
+=== Replicação 337 ===
+Duração V2V Msg: 0.202400 ms
+Duração V2N Msg: 0.128200 ms
+
+ 
+=== Replicação 338 ===
+Duração V2V Msg: 0.158300 ms
+Duração V2N Msg: 0.130700 ms
+
+ 
+=== Replicação 339 ===
+Duração V2V Msg: 0.134500 ms
+Duração V2N Msg: 0.130400 ms
+
+ 
+=== Replicação 340 ===
+Duração V2V Msg: 0.131100 ms
+Duração V2N Msg: 0.127600 ms
+
+ 
+=== Replicação 341 ===
+Duração V2V Msg: 0.136100 ms
+Duração V2N Msg: 0.130400 ms
+
+ 
+=== Replicação 342 ===
+Duração V2V Msg: 0.235300 ms
+Duração V2N Msg: 0.131200 ms
+
+ 
+=== Replicação 343 ===
+Duração V2V Msg: 0.161600 ms
+Duração V2N Msg: 0.167600 ms
+
+ 
+=== Replicação 344 ===
+Duração V2V Msg: 0.130700 ms
+Duração V2N Msg: 0.129000 ms
+
+ 
+=== Replicação 345 ===
+Duração V2V Msg: 0.143200 ms
+Duração V2N Msg: 0.135800 ms
+
+ 
+=== Replicação 346 ===
+Duração V2V Msg: 0.135700 ms
+Duração V2N Msg: 0.129400 ms
+
+ 
+=== Replicação 347 ===
+Duração V2V Msg: 0.130600 ms
+Duração V2N Msg: 0.130000 ms
+
+ 
+=== Replicação 348 ===
+Duração V2V Msg: 0.172200 ms
+Duração V2N Msg: 0.131600 ms
+
+ 
+=== Replicação 349 ===
+Duração V2V Msg: 0.134700 ms
+Duração V2N Msg: 0.133700 ms
+
+ 
+=== Replicação 350 ===
+Duração V2V Msg: 0.156000 ms
+Duração V2N Msg: 0.135500 ms
+
+ 
+=== Replicação 351 ===
+Duração V2V Msg: 0.134100 ms
+Duração V2N Msg: 0.134600 ms
+
+ 
+=== Replicação 352 ===
+Duração V2V Msg: 0.141900 ms
+Duração V2N Msg: 0.130300 ms
+
+ 
+=== Replicação 353 ===
+Duração V2V Msg: 0.128500 ms
+Duração V2N Msg: 0.133700 ms
+
+ 
+=== Replicação 354 ===
+Duração V2V Msg: 0.135700 ms
+Duração V2N Msg: 0.131000 ms
+
+ 
+=== Replicação 355 ===
+Duração V2V Msg: 0.170300 ms
+Duração V2N Msg: 0.130500 ms
+
+ 
+=== Replicação 356 ===
+Duração V2V Msg: 0.133700 ms
+Duração V2N Msg: 0.130400 ms
+
+ 
+=== Replicação 357 ===
+Duração V2V Msg: 0.158200 ms
+Duração V2N Msg: 0.174900 ms
+
+ 
+=== Replicação 358 ===
+Duração V2V Msg: 0.181200 ms
+Duração V2N Msg: 0.132100 ms
+
+ 
+=== Replicação 359 ===
+Duração V2V Msg: 0.134700 ms
+Duração V2N Msg: 0.130300 ms
+
+ 
+=== Replicação 360 ===
+Duração V2V Msg: 0.134000 ms
+Duração V2N Msg: 0.132100 ms
+
+ 
+=== Replicação 361 ===
+Duração V2V Msg: 0.191100 ms
+Duração V2N Msg: 0.131600 ms
+
+ 
+=== Replicação 362 ===
+Duração V2V Msg: 0.192700 ms
+Duração V2N Msg: 0.135400 ms
+
+ 
+=== Replicação 363 ===
+Duração V2V Msg: 0.166200 ms
+Duração V2N Msg: 0.131800 ms
+
+ 
+=== Replicação 364 ===
+Duração V2V Msg: 0.217700 ms
+Duração V2N Msg: 0.131600 ms
+
+ 
+=== Replicação 365 ===
+Duração V2V Msg: 0.155900 ms
+Duração V2N Msg: 0.122800 ms
+
+ 
+=== Replicação 366 ===
+Duração V2V Msg: 0.157500 ms
+Duração V2N Msg: 0.124900 ms
+
+ 
+=== Replicação 367 ===
+Duração V2V Msg: 0.197300 ms
+Duração V2N Msg: 0.130900 ms
+
+ 
+=== Replicação 368 ===
+Duração V2V Msg: 0.182900 ms
+Duração V2N Msg: 0.131300 ms
+
+ 
+=== Replicação 369 ===
+Duração V2V Msg: 0.192000 ms
+Duração V2N Msg: 0.132300 ms
+
+ 
+=== Replicação 370 ===
+Duração V2V Msg: 0.153500 ms
+Duração V2N Msg: 0.135900 ms
+
+ 
+=== Replicação 371 ===
+Duração V2V Msg: 0.154900 ms
+Duração V2N Msg: 0.123600 ms
+
+ 
+=== Replicação 372 ===
+Duração V2V Msg: 0.135500 ms
+Duração V2N Msg: 0.130600 ms
+
+ 
+=== Replicação 373 ===
+Duração V2V Msg: 0.128500 ms
+Duração V2N Msg: 0.123400 ms
+
+ 
+=== Replicação 374 ===
+Duração V2V Msg: 0.157100 ms
+Duração V2N Msg: 0.126100 ms
+
+ 
+=== Replicação 375 ===
+Duração V2V Msg: 0.153400 ms
+Duração V2N Msg: 0.132400 ms
+
+ 
+=== Replicação 376 ===
+Duração V2V Msg: 0.152200 ms
+Duração V2N Msg: 0.200600 ms
+
+ 
+=== Replicação 377 ===
+Duração V2V Msg: 0.197700 ms
+Duração V2N Msg: 0.125500 ms
+
+ 
+=== Replicação 378 ===
+Duração V2V Msg: 0.130400 ms
+Duração V2N Msg: 0.118700 ms
+
+ 
+=== Replicação 379 ===
+Duração V2V Msg: 0.181200 ms
+Duração V2N Msg: 0.122500 ms
+
+ 
+=== Replicação 380 ===
+Duração V2V Msg: 0.153300 ms
+Duração V2N Msg: 0.121500 ms
+
+ 
+=== Replicação 381 ===
+Duração V2V Msg: 0.154500 ms
+Duração V2N Msg: 0.125800 ms
+
+ 
+=== Replicação 382 ===
+Duração V2V Msg: 0.152000 ms
+Duração V2N Msg: 0.127400 ms
+
+ 
+=== Replicação 383 ===
+Duração V2V Msg: 0.127600 ms
+Duração V2N Msg: 0.121100 ms
+
+ 
+=== Replicação 384 ===
+Duração V2V Msg: 0.121300 ms
+Duração V2N Msg: 0.125900 ms
+
+ 
+=== Replicação 385 ===
+Duração V2V Msg: 0.186800 ms
+Duração V2N Msg: 0.121300 ms
+
+ 
+=== Replicação 386 ===
+Duração V2V Msg: 0.180700 ms
+Duração V2N Msg: 0.121600 ms
+
+ 
+=== Replicação 387 ===
+Duração V2V Msg: 0.124900 ms
+Duração V2N Msg: 0.122100 ms
+
+ 
+=== Replicação 388 ===
+Duração V2V Msg: 0.233300 ms
+Duração V2N Msg: 0.130800 ms
+
+ 
+=== Replicação 389 ===
+Duração V2V Msg: 0.125800 ms
+Duração V2N Msg: 0.119300 ms
+
+ 
+=== Replicação 390 ===
+Duração V2V Msg: 0.129500 ms
+Duração V2N Msg: 0.119800 ms
+
+ 
+=== Replicação 391 ===
+Duração V2V Msg: 0.150800 ms
+Duração V2N Msg: 0.117300 ms
+
+ 
+=== Replicação 392 ===
+Duração V2V Msg: 0.154000 ms
+Duração V2N Msg: 0.121300 ms
+
+ 
+=== Replicação 393 ===
+Duração V2V Msg: 0.135300 ms
+Duração V2N Msg: 0.121200 ms
+
+ 
+=== Replicação 394 ===
+Duração V2V Msg: 0.241100 ms
+Duração V2N Msg: 0.123200 ms
+
+ 
+=== Replicação 395 ===
+Duração V2V Msg: 0.148900 ms
+Duração V2N Msg: 0.153000 ms
+
+ 
+=== Replicação 396 ===
+Duração V2V Msg: 0.130000 ms
+Duração V2N Msg: 0.129200 ms
+
+ 
+=== Replicação 397 ===
+Duração V2V Msg: 0.126100 ms
+Duração V2N Msg: 0.118500 ms
+
+ 
+=== Replicação 398 ===
+Duração V2V Msg: 0.149700 ms
+Duração V2N Msg: 0.160300 ms
+
+ 
+=== Replicação 399 ===
+Duração V2V Msg: 0.118900 ms
+Duração V2N Msg: 0.116600 ms
+
+ 
+=== Replicação 400 ===
+Duração V2V Msg: 0.134900 ms
+Duração V2N Msg: 0.118300 ms
+
+ 
+=== Replicação 401 ===
+Duração V2V Msg: 0.151500 ms
+Duração V2N Msg: 0.118900 ms
+
+ 
+=== Replicação 402 ===
+Duração V2V Msg: 0.117800 ms
+Duração V2N Msg: 0.137500 ms
+
+ 
+=== Replicação 403 ===
+Duração V2V Msg: 0.119500 ms
+Duração V2N Msg: 0.116800 ms
+
+ 
+=== Replicação 404 ===
+Duração V2V Msg: 0.124300 ms
+Duração V2N Msg: 0.157500 ms
+
+ 
+=== Replicação 405 ===
+Duração V2V Msg: 0.154700 ms
+Duração V2N Msg: 0.113800 ms
+
+ 
+=== Replicação 406 ===
+Duração V2V Msg: 0.122200 ms
+Duração V2N Msg: 0.142800 ms
+
+ 
+=== Replicação 407 ===
+Duração V2V Msg: 0.231000 ms
+Duração V2N Msg: 0.116000 ms
+
+ 
+=== Replicação 408 ===
+Duração V2V Msg: 0.125700 ms
+Duração V2N Msg: 0.116700 ms
+
+ 
+=== Replicação 409 ===
+Duração V2V Msg: 0.116500 ms
+Duração V2N Msg: 0.150500 ms
+
+ 
+=== Replicação 410 ===
+Duração V2V Msg: 0.116200 ms
+Duração V2N Msg: 0.114100 ms
+
+ 
+=== Replicação 411 ===
+Duração V2V Msg: 0.125000 ms
+Duração V2N Msg: 0.118300 ms
+
+ 
+=== Replicação 412 ===
+Duração V2V Msg: 0.148000 ms
+Duração V2N Msg: 0.159300 ms
+
+ 
+=== Replicação 413 ===
+Duração V2V Msg: 0.221300 ms
+Duração V2N Msg: 0.153300 ms
+
+ 
+=== Replicação 414 ===
+Duração V2V Msg: 0.167300 ms
+Duração V2N Msg: 0.187900 ms
+
+ 
+=== Replicação 415 ===
+Duração V2V Msg: 0.142300 ms
+Duração V2N Msg: 0.124300 ms
+
+ 
+=== Replicação 416 ===
+Duração V2V Msg: 0.122300 ms
+Duração V2N Msg: 0.114900 ms
+
+ 
+=== Replicação 417 ===
+Duração V2V Msg: 0.204500 ms
+Duração V2N Msg: 0.114400 ms
+
+ 
+=== Replicação 418 ===
+Duração V2V Msg: 0.148400 ms
+Duração V2N Msg: 0.166100 ms
+
+ 
+=== Replicação 419 ===
+Duração V2V Msg: 0.188800 ms
+Duração V2N Msg: 0.115400 ms
+
+ 
+=== Replicação 420 ===
+Duração V2V Msg: 0.112500 ms
+Duração V2N Msg: 0.113600 ms
+
+ 
+=== Replicação 421 ===
+Duração V2V Msg: 0.126700 ms
+Duração V2N Msg: 0.119600 ms
+
+ 
+=== Replicação 422 ===
+Duração V2V Msg: 0.147800 ms
+Duração V2N Msg: 0.147800 ms
+
+ 
+=== Replicação 423 ===
+Duração V2V Msg: 0.151100 ms
+Duração V2N Msg: 0.146600 ms
+
+ 
+=== Replicação 424 ===
+Duração V2V Msg: 0.145300 ms
+Duração V2N Msg: 0.114000 ms
+
+ 
+=== Replicação 425 ===
+Duração V2V Msg: 0.120400 ms
+Duração V2N Msg: 0.144500 ms
+
+ 
+=== Replicação 426 ===
+Duração V2V Msg: 0.118600 ms
+Duração V2N Msg: 0.113800 ms
+
+ 
+=== Replicação 427 ===
+Duração V2V Msg: 0.115000 ms
+Duração V2N Msg: 0.115300 ms
+
+ 
+=== Replicação 428 ===
+Duração V2V Msg: 0.118800 ms
+Duração V2N Msg: 0.112400 ms
+
+ 
+=== Replicação 429 ===
+Duração V2V Msg: 0.114800 ms
+Duração V2N Msg: 0.111700 ms
+
+ 
+=== Replicação 430 ===
+Duração V2V Msg: 0.121000 ms
+Duração V2N Msg: 0.117500 ms
+
+ 
+=== Replicação 431 ===
+Duração V2V Msg: 0.168500 ms
+Duração V2N Msg: 0.114000 ms
+
+ 
+=== Replicação 432 ===
+Duração V2V Msg: 0.150400 ms
+Duração V2N Msg: 0.114000 ms
+
+ 
+=== Replicação 433 ===
+Duração V2V Msg: 0.180800 ms
+Duração V2N Msg: 0.141800 ms
+
+ 
+=== Replicação 434 ===
+Duração V2V Msg: 0.125700 ms
+Duração V2N Msg: 0.113000 ms
+
+ 
+=== Replicação 435 ===
+Duração V2V Msg: 0.118900 ms
+Duração V2N Msg: 0.112100 ms
+
+ 
+=== Replicação 436 ===
+Duração V2V Msg: 0.113800 ms
+Duração V2N Msg: 0.151300 ms
+
+ 
+=== Replicação 437 ===
+Duração V2V Msg: 0.184600 ms
+Duração V2N Msg: 0.112200 ms
+
+ 
+=== Replicação 438 ===
+Duração V2V Msg: 0.174200 ms
+Duração V2N Msg: 0.111600 ms
+
+ 
+=== Replicação 439 ===
+Duração V2V Msg: 0.119100 ms
+Duração V2N Msg: 0.117400 ms
+
+ 
+=== Replicação 440 ===
+Duração V2V Msg: 0.186000 ms
+Duração V2N Msg: 0.111400 ms
+
+ 
+=== Replicação 441 ===
+Duração V2V Msg: 0.118000 ms
+Duração V2N Msg: 0.125200 ms
+
+ 
+=== Replicação 442 ===
+Duração V2V Msg: 0.172400 ms
+Duração V2N Msg: 0.111600 ms
+
+ 
+=== Replicação 443 ===
+Duração V2V Msg: 0.143300 ms
+Duração V2N Msg: 0.129500 ms
+
+ 
+=== Replicação 444 ===
+Duração V2V Msg: 0.119400 ms
+Duração V2N Msg: 0.112100 ms
+
+ 
+=== Replicação 445 ===
+Duração V2V Msg: 0.116000 ms
+Duração V2N Msg: 0.110700 ms
+
+ 
+=== Replicação 446 ===
+Duração V2V Msg: 0.118600 ms
+Duração V2N Msg: 0.111800 ms
+
+ 
+=== Replicação 447 ===
+Duração V2V Msg: 0.118800 ms
+Duração V2N Msg: 0.111100 ms
+
+ 
+=== Replicação 448 ===
+Duração V2V Msg: 0.108700 ms
+Duração V2N Msg: 0.107600 ms
+
+ 
+=== Replicação 449 ===
+Duração V2V Msg: 0.120400 ms
+Duração V2N Msg: 0.110900 ms
+
+ 
+=== Replicação 450 ===
+Duração V2V Msg: 0.116100 ms
+Duração V2N Msg: 0.110300 ms
+
+ 
+=== Replicação 451 ===
+Duração V2V Msg: 0.125000 ms
+Duração V2N Msg: 0.130000 ms
+
+ 
+=== Replicação 452 ===
+Duração V2V Msg: 0.131200 ms
+Duração V2N Msg: 0.110700 ms
+
+ 
+=== Replicação 453 ===
+Duração V2V Msg: 0.142200 ms
+Duração V2N Msg: 0.145000 ms
+
+ 
+=== Replicação 454 ===
+Duração V2V Msg: 0.143600 ms
+Duração V2N Msg: 0.117800 ms
+
+ 
+=== Replicação 455 ===
+Duração V2V Msg: 0.178200 ms
+Duração V2N Msg: 0.110200 ms
+
+ 
+=== Replicação 456 ===
+Duração V2V Msg: 0.123300 ms
+Duração V2N Msg: 0.153700 ms
+
+ 
+=== Replicação 457 ===
+Duração V2V Msg: 0.143700 ms
+Duração V2N Msg: 0.153200 ms
+
+ 
+=== Replicação 458 ===
+Duração V2V Msg: 0.184200 ms
+Duração V2N Msg: 0.152800 ms
+
+ 
+=== Replicação 459 ===
+Duração V2V Msg: 0.116000 ms
+Duração V2N Msg: 0.148100 ms
+
+ 
+=== Replicação 460 ===
+Duração V2V Msg: 0.113200 ms
+Duração V2N Msg: 0.107600 ms
+
+ 
+=== Replicação 461 ===
+Duração V2V Msg: 0.190600 ms
+Duração V2N Msg: 0.110800 ms
+
+ 
+=== Replicação 462 ===
+Duração V2V Msg: 0.158200 ms
+Duração V2N Msg: 0.148700 ms
+
+ 
+=== Replicação 463 ===
+Duração V2V Msg: 0.113200 ms
+Duração V2N Msg: 0.123900 ms
+
+ 
+=== Replicação 464 ===
+Duração V2V Msg: 0.202700 ms
+Duração V2N Msg: 0.173900 ms
+
+ 
+=== Replicação 465 ===
+Duração V2V Msg: 0.118600 ms
+Duração V2N Msg: 0.118100 ms
+
+ 
+=== Replicação 466 ===
+Duração V2V Msg: 0.149000 ms
+Duração V2N Msg: 0.151500 ms
+
+ 
+=== Replicação 467 ===
+Duração V2V Msg: 0.125600 ms
+Duração V2N Msg: 0.111100 ms
+
+ 
+=== Replicação 468 ===
+Duração V2V Msg: 0.116100 ms
+Duração V2N Msg: 0.155300 ms
+
+ 
+=== Replicação 469 ===
+Duração V2V Msg: 0.183200 ms
+Duração V2N Msg: 0.141500 ms
+
+ 
+=== Replicação 470 ===
+Duração V2V Msg: 0.172700 ms
+Duração V2N Msg: 0.121800 ms
+
+ 
+=== Replicação 471 ===
+Duração V2V Msg: 0.218100 ms
+Duração V2N Msg: 0.145400 ms
+
+ 
+=== Replicação 472 ===
+Duração V2V Msg: 0.142300 ms
+Duração V2N Msg: 0.246000 ms
+
+ 
+=== Replicação 473 ===
+Duração V2V Msg: 0.096600 ms
+Duração V2N Msg: 0.142800 ms
+
+ 
+=== Replicação 474 ===
+Duração V2V Msg: 0.166800 ms
+Duração V2N Msg: 0.104400 ms
+
+ 
+=== Replicação 475 ===
+Duração V2V Msg: 0.154600 ms
+Duração V2N Msg: 0.187300 ms
+
+ 
+=== Replicação 476 ===
+Duração V2V Msg: 0.249700 ms
+Duração V2N Msg: 0.166700 ms
+
+ 
+=== Replicação 477 ===
+Duração V2V Msg: 0.127600 ms
+Duração V2N Msg: 0.239300 ms
+
+ 
+=== Replicação 478 ===
+Duração V2V Msg: 0.114100 ms
+Duração V2N Msg: 0.146000 ms
+
+ 
+=== Replicação 479 ===
+Duração V2V Msg: 0.115000 ms
+Duração V2N Msg: 0.110700 ms
+
+ 
+=== Replicação 480 ===
+Duração V2V Msg: 0.110100 ms
+Duração V2N Msg: 0.115800 ms
+
+ 
+=== Replicação 481 ===
+Duração V2V Msg: 0.119200 ms
+Duração V2N Msg: 0.113700 ms
+
+ 
+=== Replicação 482 ===
+Duração V2V Msg: 0.144500 ms
+Duração V2N Msg: 0.113000 ms
+
+ 
+=== Replicação 483 ===
+Duração V2V Msg: 0.114600 ms
+Duração V2N Msg: 0.112000 ms
+
+ 
+=== Replicação 484 ===
+Duração V2V Msg: 0.112800 ms
+Duração V2N Msg: 0.111500 ms
+
+ 
+=== Replicação 485 ===
+Duração V2V Msg: 0.123000 ms
+Duração V2N Msg: 0.110800 ms
+
+ 
+=== Replicação 486 ===
+Duração V2V Msg: 0.110800 ms
+Duração V2N Msg: 0.108700 ms
+
+ 
+=== Replicação 487 ===
+Duração V2V Msg: 0.107600 ms
+Duração V2N Msg: 0.110700 ms
+
+ 
+=== Replicação 488 ===
+Duração V2V Msg: 0.114000 ms
+Duração V2N Msg: 0.105800 ms
+
+ 
+=== Replicação 489 ===
+Duração V2V Msg: 0.115300 ms
+Duração V2N Msg: 0.114200 ms
+
+ 
+=== Replicação 490 ===
+Duração V2V Msg: 0.113500 ms
+Duração V2N Msg: 0.110000 ms
+
+ 
+=== Replicação 491 ===
+Duração V2V Msg: 0.114500 ms
+Duração V2N Msg: 0.110500 ms
+
+ 
+=== Replicação 492 ===
+Duração V2V Msg: 0.134100 ms
+Duração V2N Msg: 0.111500 ms
+
+ 
+=== Replicação 493 ===
+Duração V2V Msg: 0.121200 ms
+Duração V2N Msg: 0.110700 ms
+
+ 
+=== Replicação 494 ===
+Duração V2V Msg: 0.117700 ms
+Duração V2N Msg: 0.110900 ms
+
+ 
+=== Replicação 495 ===
+Duração V2V Msg: 0.117400 ms
+Duração V2N Msg: 0.110900 ms
+
+ 
+=== Replicação 496 ===
+Duração V2V Msg: 0.124800 ms
+Duração V2N Msg: 0.108500 ms
+
+ 
+=== Replicação 497 ===
+Duração V2V Msg: 0.112600 ms
+Duração V2N Msg: 0.110300 ms
+
+ 
+=== Replicação 498 ===
+Duração V2V Msg: 0.113300 ms
+Duração V2N Msg: 0.110200 ms
+
+ 
+=== Replicação 499 ===
+Duração V2V Msg: 0.110700 ms
+Duração V2N Msg: 0.110200 ms
+
+ 
+=== Replicação 500 ===
+Duração V2V Msg: 0.113100 ms
+Duração V2N Msg: 0.110600 ms
+
+ 
+=== Replicação 501 ===
+Duração V2V Msg: 0.124600 ms
+Duração V2N Msg: 0.114400 ms
+
+ 
+=== Replicação 502 ===
+Duração V2V Msg: 0.113400 ms
+Duração V2N Msg: 0.114100 ms
+
+ 
+=== Replicação 503 ===
+Duração V2V Msg: 0.104800 ms
+Duração V2N Msg: 0.118800 ms
+
+ 
+=== Replicação 504 ===
+Duração V2V Msg: 0.126600 ms
+Duração V2N Msg: 0.111000 ms
+
+ 
+=== Replicação 505 ===
+Duração V2V Msg: 0.145400 ms
+Duração V2N Msg: 0.111300 ms
+
+ 
+=== Replicação 506 ===
+Duração V2V Msg: 0.113200 ms
+Duração V2N Msg: 0.112600 ms
+
+ 
+=== Replicação 507 ===
+Duração V2V Msg: 0.133700 ms
+Duração V2N Msg: 0.114900 ms
+
+ 
+=== Replicação 508 ===
+Duração V2V Msg: 0.177900 ms
+Duração V2N Msg: 0.224500 ms
+
+ 
+=== Replicação 509 ===
+Duração V2V Msg: 0.122500 ms
+Duração V2N Msg: 0.110500 ms
+
+ 
+=== Replicação 510 ===
+Duração V2V Msg: 0.112600 ms
+Duração V2N Msg: 0.113700 ms
+
+ 
+=== Replicação 511 ===
+Duração V2V Msg: 0.125000 ms
+Duração V2N Msg: 0.110900 ms
+
+ 
+=== Replicação 512 ===
+Duração V2V Msg: 0.131100 ms
+Duração V2N Msg: 0.111000 ms
+
+ 
+=== Replicação 513 ===
+Duração V2V Msg: 0.132900 ms
+Duração V2N Msg: 0.111900 ms
+
+ 
+=== Replicação 514 ===
+Duração V2V Msg: 0.125200 ms
+Duração V2N Msg: 0.175200 ms
+
+ 
+=== Replicação 515 ===
+Duração V2V Msg: 0.112600 ms
+Duração V2N Msg: 0.110000 ms
+
+ 
+=== Replicação 516 ===
+Duração V2V Msg: 0.122200 ms
+Duração V2N Msg: 0.111200 ms
+
+ 
+=== Replicação 517 ===
+Duração V2V Msg: 0.116300 ms
+Duração V2N Msg: 0.111300 ms
+
+ 
+=== Replicação 518 ===
+Duração V2V Msg: 0.111900 ms
+Duração V2N Msg: 0.110300 ms
+
+ 
+=== Replicação 519 ===
+Duração V2V Msg: 0.123300 ms
+Duração V2N Msg: 0.110300 ms
+
+ 
+=== Replicação 520 ===
+Duração V2V Msg: 0.118900 ms
+Duração V2N Msg: 0.112700 ms
+
+ 
+=== Replicação 521 ===
+Duração V2V Msg: 0.121900 ms
+Duração V2N Msg: 0.110800 ms
+
+ 
+=== Replicação 522 ===
+Duração V2V Msg: 0.118300 ms
+Duração V2N Msg: 0.110200 ms
+
+ 
+=== Replicação 523 ===
+Duração V2V Msg: 0.109600 ms
+Duração V2N Msg: 0.102400 ms
+
+ 
+=== Replicação 524 ===
+Duração V2V Msg: 0.104800 ms
+Duração V2N Msg: 0.113200 ms
+
+ 
+=== Replicação 525 ===
+Duração V2V Msg: 0.111900 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 526 ===
+Duração V2V Msg: 0.112500 ms
+Duração V2N Msg: 0.109400 ms
+
+ 
+=== Replicação 527 ===
+Duração V2V Msg: 0.112900 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 528 ===
+Duração V2V Msg: 0.188800 ms
+Duração V2N Msg: 0.110300 ms
+
+ 
+=== Replicação 529 ===
+Duração V2V Msg: 0.113000 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 530 ===
+Duração V2V Msg: 0.112200 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 531 ===
+Duração V2V Msg: 0.111900 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 532 ===
+Duração V2V Msg: 0.111900 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 533 ===
+Duração V2V Msg: 0.125900 ms
+Duração V2N Msg: 0.110500 ms
+
+ 
+=== Replicação 534 ===
+Duração V2V Msg: 0.106800 ms
+Duração V2N Msg: 0.111500 ms
+
+ 
+=== Replicação 535 ===
+Duração V2V Msg: 0.112300 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 536 ===
+Duração V2V Msg: 0.117900 ms
+Duração V2N Msg: 0.110200 ms
+
+ 
+=== Replicação 537 ===
+Duração V2V Msg: 0.112100 ms
+Duração V2N Msg: 0.110200 ms
+
+ 
+=== Replicação 538 ===
+Duração V2V Msg: 0.111700 ms
+Duração V2N Msg: 0.110000 ms
+
+ 
+=== Replicação 539 ===
+Duração V2V Msg: 0.112100 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 540 ===
+Duração V2V Msg: 0.111500 ms
+Duração V2N Msg: 0.109700 ms
+
+ 
+=== Replicação 541 ===
+Duração V2V Msg: 0.112200 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 542 ===
+Duração V2V Msg: 0.168900 ms
+Duração V2N Msg: 0.110300 ms
+
+ 
+=== Replicação 543 ===
+Duração V2V Msg: 0.115000 ms
+Duração V2N Msg: 0.110400 ms
+
+ 
+=== Replicação 544 ===
+Duração V2V Msg: 0.112400 ms
+Duração V2N Msg: 0.110200 ms
+
+ 
+=== Replicação 545 ===
+Duração V2V Msg: 0.173800 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 546 ===
+Duração V2V Msg: 0.112300 ms
+Duração V2N Msg: 0.109700 ms
+
+ 
+=== Replicação 547 ===
+Duração V2V Msg: 0.112400 ms
+Duração V2N Msg: 0.110400 ms
+
+ 
+=== Replicação 548 ===
+Duração V2V Msg: 0.113400 ms
+Duração V2N Msg: 0.107700 ms
+
+ 
+=== Replicação 549 ===
+Duração V2V Msg: 0.115200 ms
+Duração V2N Msg: 0.113700 ms
+
+ 
+=== Replicação 550 ===
+Duração V2V Msg: 0.112900 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 551 ===
+Duração V2V Msg: 0.112200 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 552 ===
+Duração V2V Msg: 0.122400 ms
+Duração V2N Msg: 0.111000 ms
+
+ 
+=== Replicação 553 ===
+Duração V2V Msg: 0.177200 ms
+Duração V2N Msg: 0.109500 ms
+
+ 
+=== Replicação 554 ===
+Duração V2V Msg: 0.177400 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 555 ===
+Duração V2V Msg: 0.111800 ms
+Duração V2N Msg: 0.109700 ms
+
+ 
+=== Replicação 556 ===
+Duração V2V Msg: 0.112200 ms
+Duração V2N Msg: 0.110000 ms
+
+ 
+=== Replicação 557 ===
+Duração V2V Msg: 0.176300 ms
+Duração V2N Msg: 0.109800 ms
+
+ 
+=== Replicação 558 ===
+Duração V2V Msg: 0.112100 ms
+Duração V2N Msg: 0.109800 ms
+
+ 
+=== Replicação 559 ===
+Duração V2V Msg: 0.111500 ms
+Duração V2N Msg: 0.109800 ms
+
+ 
+=== Replicação 560 ===
+Duração V2V Msg: 0.112300 ms
+Duração V2N Msg: 0.109800 ms
+
+ 
+=== Replicação 561 ===
+Duração V2V Msg: 0.111700 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 562 ===
+Duração V2V Msg: 0.112000 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 563 ===
+Duração V2V Msg: 0.121100 ms
+Duração V2N Msg: 0.107400 ms
+
+ 
+=== Replicação 564 ===
+Duração V2V Msg: 0.115200 ms
+Duração V2N Msg: 0.112000 ms
+
+ 
+=== Replicação 565 ===
+Duração V2V Msg: 0.111600 ms
+Duração V2N Msg: 0.109700 ms
+
+ 
+=== Replicação 566 ===
+Duração V2V Msg: 0.109000 ms
+Duração V2N Msg: 0.134000 ms
+
+ 
+=== Replicação 567 ===
+Duração V2V Msg: 0.115900 ms
+Duração V2N Msg: 0.116300 ms
+
+ 
+=== Replicação 568 ===
+Duração V2V Msg: 0.116000 ms
+Duração V2N Msg: 0.116200 ms
+
+ 
+=== Replicação 569 ===
+Duração V2V Msg: 0.116500 ms
+Duração V2N Msg: 0.108800 ms
+
+ 
+=== Replicação 570 ===
+Duração V2V Msg: 0.117100 ms
+Duração V2N Msg: 0.115900 ms
+
+ 
+=== Replicação 571 ===
+Duração V2V Msg: 0.117000 ms
+Duração V2N Msg: 0.114000 ms
+
+ 
+=== Replicação 572 ===
+Duração V2V Msg: 0.117600 ms
+Duração V2N Msg: 0.109300 ms
+
+ 
+=== Replicação 573 ===
+Duração V2V Msg: 0.116500 ms
+Duração V2N Msg: 0.108000 ms
+
+ 
+=== Replicação 574 ===
+Duração V2V Msg: 0.144200 ms
+Duração V2N Msg: 0.109700 ms
+
+ 
+=== Replicação 575 ===
+Duração V2V Msg: 0.116200 ms
+Duração V2N Msg: 0.107900 ms
+
+ 
+=== Replicação 576 ===
+Duração V2V Msg: 0.116300 ms
+Duração V2N Msg: 0.108300 ms
+
+ 
+=== Replicação 577 ===
+Duração V2V Msg: 0.116500 ms
+Duração V2N Msg: 0.125700 ms
+
+ 
+=== Replicação 578 ===
+Duração V2V Msg: 0.115800 ms
+Duração V2N Msg: 0.107400 ms
+
+ 
+=== Replicação 579 ===
+Duração V2V Msg: 0.116300 ms
+Duração V2N Msg: 0.129800 ms
+
+ 
+=== Replicação 580 ===
+Duração V2V Msg: 0.165400 ms
+Duração V2N Msg: 0.144400 ms
+
+ 
+=== Replicação 581 ===
+Duração V2V Msg: 0.114100 ms
+Duração V2N Msg: 0.108100 ms
+
+ 
+=== Replicação 582 ===
+Duração V2V Msg: 0.116800 ms
+Duração V2N Msg: 0.107900 ms
+
+ 
+=== Replicação 583 ===
+Duração V2V Msg: 0.116600 ms
+Duração V2N Msg: 0.109200 ms
+
+ 
+=== Replicação 584 ===
+Duração V2V Msg: 0.144800 ms
+Duração V2N Msg: 0.108900 ms
+
+ 
+=== Replicação 585 ===
+Duração V2V Msg: 0.116200 ms
+Duração V2N Msg: 0.116500 ms
+
+ 
+=== Replicação 586 ===
+Duração V2V Msg: 0.149300 ms
+Duração V2N Msg: 0.118900 ms
+
+ 
+=== Replicação 587 ===
+Duração V2V Msg: 0.116800 ms
+Duração V2N Msg: 0.122000 ms
+
+ 
+=== Replicação 588 ===
+Duração V2V Msg: 0.145200 ms
+Duração V2N Msg: 0.114000 ms
+
+ 
+=== Replicação 589 ===
+Duração V2V Msg: 0.184700 ms
+Duração V2N Msg: 0.106900 ms
+
+ 
+=== Replicação 590 ===
+Duração V2V Msg: 0.148600 ms
+Duração V2N Msg: 0.120500 ms
+
+ 
+=== Replicação 591 ===
+Duração V2V Msg: 0.116200 ms
+Duração V2N Msg: 0.108200 ms
+
+ 
+=== Replicação 592 ===
+Duração V2V Msg: 0.116300 ms
+Duração V2N Msg: 0.108200 ms
+
+ 
+=== Replicação 593 ===
+Duração V2V Msg: 0.152000 ms
+Duração V2N Msg: 0.107900 ms
+
+ 
+=== Replicação 594 ===
+Duração V2V Msg: 0.149600 ms
+Duração V2N Msg: 0.110500 ms
+
+ 
+=== Replicação 595 ===
+Duração V2V Msg: 0.110500 ms
+Duração V2N Msg: 0.108000 ms
+
+ 
+=== Replicação 596 ===
+Duração V2V Msg: 0.116700 ms
+Duração V2N Msg: 0.108200 ms
+
+ 
+=== Replicação 597 ===
+Duração V2V Msg: 0.117300 ms
+Duração V2N Msg: 0.120800 ms
+
+ 
+=== Replicação 598 ===
+Duração V2V Msg: 0.117300 ms
+Duração V2N Msg: 0.122300 ms
+
+ 
+=== Replicação 599 ===
+Duração V2V Msg: 0.116800 ms
+Duração V2N Msg: 0.107900 ms
+
+ 
+=== Replicação 600 ===
+Duração V2V Msg: 0.151900 ms
+Duração V2N Msg: 0.107900 ms
+
+ 
+=== Replicação 601 ===
+Duração V2V Msg: 0.144800 ms
+Duração V2N Msg: 0.122800 ms
+
+ 
+=== Replicação 602 ===
+Duração V2V Msg: 0.122800 ms
+Duração V2N Msg: 0.115700 ms
+
+ 
+=== Replicação 603 ===
+Duração V2V Msg: 0.124200 ms
+Duração V2N Msg: 0.116100 ms
+
+ 
+=== Replicação 604 ===
+Duração V2V Msg: 0.124000 ms
+Duração V2N Msg: 0.116100 ms
+
+ 
+=== Replicação 605 ===
+Duração V2V Msg: 0.116800 ms
+Duração V2N Msg: 0.107900 ms
+
+ 
+=== Replicação 606 ===
+Duração V2V Msg: 0.116300 ms
+Duração V2N Msg: 0.108100 ms
+
+ 
+=== Replicação 607 ===
+Duração V2V Msg: 0.116900 ms
+Duração V2N Msg: 0.108600 ms
+
+ 
+=== Replicação 608 ===
+Duração V2V Msg: 0.116900 ms
+Duração V2N Msg: 0.119100 ms
+
+ 
+=== Replicação 609 ===
+Duração V2V Msg: 0.114600 ms
+Duração V2N Msg: 0.134400 ms
+
+ 
+=== Replicação 610 ===
+Duração V2V Msg: 0.117000 ms
+Duração V2N Msg: 0.119900 ms
+
+ 
+=== Replicação 611 ===
+Duração V2V Msg: 0.116400 ms
+Duração V2N Msg: 0.108000 ms
+
+ 
+=== Replicação 612 ===
+Duração V2V Msg: 0.117500 ms
+Duração V2N Msg: 0.108500 ms
+
+ 
+=== Replicação 613 ===
+Duração V2V Msg: 0.116900 ms
+Duração V2N Msg: 0.107900 ms
+
+ 
+=== Replicação 614 ===
+Duração V2V Msg: 0.116700 ms
+Duração V2N Msg: 0.108000 ms
+
+ 
+=== Replicação 615 ===
+Duração V2V Msg: 0.145300 ms
+Duração V2N Msg: 0.110700 ms
+
+ 
+=== Replicação 616 ===
+Duração V2V Msg: 0.118000 ms
+Duração V2N Msg: 0.114700 ms
+
+ 
+=== Replicação 617 ===
+Duração V2V Msg: 0.117500 ms
+Duração V2N Msg: 0.119100 ms
+
+ 
+=== Replicação 618 ===
+Duração V2V Msg: 0.116900 ms
+Duração V2N Msg: 0.108200 ms
+
+ 
+=== Replicação 619 ===
+Duração V2V Msg: 0.117000 ms
+Duração V2N Msg: 0.119200 ms
+
+ 
+=== Replicação 620 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.133300 ms
+
+ 
+=== Replicação 621 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.118300 ms
+
+ 
+=== Replicação 622 ===
+Duração V2V Msg: 0.194500 ms
+Duração V2N Msg: 0.095300 ms
+
+ 
+=== Replicação 623 ===
+Duração V2V Msg: 0.161800 ms
+Duração V2N Msg: 0.131700 ms
+
+ 
+=== Replicação 624 ===
+Duração V2V Msg: 0.137100 ms
+Duração V2N Msg: 0.102000 ms
+
+ 
+=== Replicação 625 ===
+Duração V2V Msg: 0.108600 ms
+Duração V2N Msg: 0.122500 ms
+
+ 
+=== Replicação 626 ===
+Duração V2V Msg: 0.109100 ms
+Duração V2N Msg: 0.112600 ms
+
+ 
+=== Replicação 627 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.130300 ms
+
+ 
+=== Replicação 628 ===
+Duração V2V Msg: 0.142800 ms
+Duração V2N Msg: 0.121400 ms
+
+ 
+=== Replicação 629 ===
+Duração V2V Msg: 0.144400 ms
+Duração V2N Msg: 0.120500 ms
+
+ 
+=== Replicação 630 ===
+Duração V2V Msg: 0.136900 ms
+Duração V2N Msg: 0.107700 ms
+
+ 
+=== Replicação 631 ===
+Duração V2V Msg: 0.109000 ms
+Duração V2N Msg: 0.130000 ms
+
+ 
+=== Replicação 632 ===
+Duração V2V Msg: 0.136900 ms
+Duração V2N Msg: 0.108200 ms
+
+ 
+=== Replicação 633 ===
+Duração V2V Msg: 0.204700 ms
+Duração V2N Msg: 0.094900 ms
+
+ 
+=== Replicação 634 ===
+Duração V2V Msg: 0.108200 ms
+Duração V2N Msg: 0.130400 ms
+
+ 
+=== Replicação 635 ===
+Duração V2V Msg: 0.187700 ms
+Duração V2N Msg: 0.094900 ms
+
+ 
+=== Replicação 636 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.131100 ms
+
+ 
+=== Replicação 637 ===
+Duração V2V Msg: 0.185300 ms
+Duração V2N Msg: 0.121800 ms
+
+ 
+=== Replicação 638 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.129300 ms
+
+ 
+=== Replicação 639 ===
+Duração V2V Msg: 0.105300 ms
+Duração V2N Msg: 0.101600 ms
+
+ 
+=== Replicação 640 ===
+Duração V2V Msg: 0.136900 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 641 ===
+Duração V2V Msg: 0.108200 ms
+Duração V2N Msg: 0.101600 ms
+
+ 
+=== Replicação 642 ===
+Duração V2V Msg: 0.183900 ms
+Duração V2N Msg: 0.094900 ms
+
+ 
+=== Replicação 643 ===
+Duração V2V Msg: 0.108100 ms
+Duração V2N Msg: 0.110000 ms
+
+ 
+=== Replicação 644 ===
+Duração V2V Msg: 0.188200 ms
+Duração V2N Msg: 0.095000 ms
+
+ 
+=== Replicação 645 ===
+Duração V2V Msg: 0.107900 ms
+Duração V2N Msg: 0.120700 ms
+
+ 
+=== Replicação 646 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.121100 ms
+
+ 
+=== Replicação 647 ===
+Duração V2V Msg: 0.106600 ms
+Duração V2N Msg: 0.111200 ms
+
+ 
+=== Replicação 648 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.122300 ms
+
+ 
+=== Replicação 649 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.109800 ms
+
+ 
+=== Replicação 650 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.109600 ms
+
+ 
+=== Replicação 651 ===
+Duração V2V Msg: 0.135300 ms
+Duração V2N Msg: 0.102000 ms
+
+ 
+=== Replicação 652 ===
+Duração V2V Msg: 0.247900 ms
+Duração V2N Msg: 0.230000 ms
+
+ 
+=== Replicação 653 ===
+Duração V2V Msg: 0.184000 ms
+Duração V2N Msg: 0.201800 ms
+
+ 
+=== Replicação 654 ===
+Duração V2V Msg: 0.112000 ms
+Duração V2N Msg: 0.103400 ms
+
+ 
+=== Replicação 655 ===
+Duração V2V Msg: 0.107000 ms
+Duração V2N Msg: 0.234600 ms
+
+ 
+=== Replicação 656 ===
+Duração V2V Msg: 0.192600 ms
+Duração V2N Msg: 0.104800 ms
+
+ 
+=== Replicação 657 ===
+Duração V2V Msg: 0.111000 ms
+Duração V2N Msg: 0.104300 ms
+
+ 
+=== Replicação 658 ===
+Duração V2V Msg: 0.111300 ms
+Duração V2N Msg: 0.102900 ms
+
+ 
+=== Replicação 659 ===
+Duração V2V Msg: 0.190400 ms
+Duração V2N Msg: 0.103100 ms
+
+ 
+=== Replicação 660 ===
+Duração V2V Msg: 0.167300 ms
+Duração V2N Msg: 0.103000 ms
+
+ 
+=== Replicação 661 ===
+Duração V2V Msg: 0.110800 ms
+Duração V2N Msg: 0.102600 ms
+
+ 
+=== Replicação 662 ===
+Duração V2V Msg: 0.110500 ms
+Duração V2N Msg: 0.103400 ms
+
+ 
+=== Replicação 663 ===
+Duração V2V Msg: 0.110500 ms
+Duração V2N Msg: 0.104000 ms
+
+ 
+=== Replicação 664 ===
+Duração V2V Msg: 0.191000 ms
+Duração V2N Msg: 0.177400 ms
+
+ 
+=== Replicação 665 ===
+Duração V2V Msg: 0.181400 ms
+Duração V2N Msg: 0.176500 ms
+
+ 
+=== Replicação 666 ===
+Duração V2V Msg: 0.115400 ms
+Duração V2N Msg: 0.103000 ms
+
+ 
+=== Replicação 667 ===
+Duração V2V Msg: 0.127900 ms
+Duração V2N Msg: 0.172600 ms
+
+ 
+=== Replicação 668 ===
+Duração V2V Msg: 0.109700 ms
+Duração V2N Msg: 0.101400 ms
+
+ 
+=== Replicação 669 ===
+Duração V2V Msg: 0.121400 ms
+Duração V2N Msg: 0.105100 ms
+
+ 
+=== Replicação 670 ===
+Duração V2V Msg: 0.188600 ms
+Duração V2N Msg: 0.177600 ms
+
+ 
+=== Replicação 671 ===
+Duração V2V Msg: 0.107400 ms
+Duração V2N Msg: 0.102600 ms
+
+ 
+=== Replicação 672 ===
+Duração V2V Msg: 0.136400 ms
+Duração V2N Msg: 0.112900 ms
+
+ 
+=== Replicação 673 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.102300 ms
+
+ 
+=== Replicação 674 ===
+Duração V2V Msg: 0.110100 ms
+Duração V2N Msg: 0.102500 ms
+
+ 
+=== Replicação 675 ===
+Duração V2V Msg: 0.181500 ms
+Duração V2N Msg: 0.134700 ms
+
+ 
+=== Replicação 676 ===
+Duração V2V Msg: 0.180000 ms
+Duração V2N Msg: 0.101600 ms
+
+ 
+=== Replicação 677 ===
+Duração V2V Msg: 0.107500 ms
+Duração V2N Msg: 0.101500 ms
+
+ 
+=== Replicação 678 ===
+Duração V2V Msg: 0.111100 ms
+Duração V2N Msg: 0.101200 ms
+
+ 
+=== Replicação 679 ===
+Duração V2V Msg: 0.178100 ms
+Duração V2N Msg: 0.101200 ms
+
+ 
+=== Replicação 680 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.101600 ms
+
+ 
+=== Replicação 681 ===
+Duração V2V Msg: 0.108200 ms
+Duração V2N Msg: 0.130200 ms
+
+ 
+=== Replicação 682 ===
+Duração V2V Msg: 0.141100 ms
+Duração V2N Msg: 0.133900 ms
+
+ 
+=== Replicação 683 ===
+Duração V2V Msg: 0.102100 ms
+Duração V2N Msg: 0.101900 ms
+
+ 
+=== Replicação 684 ===
+Duração V2V Msg: 0.110700 ms
+Duração V2N Msg: 0.111600 ms
+
+ 
+=== Replicação 685 ===
+Duração V2V Msg: 0.108700 ms
+Duração V2N Msg: 0.109300 ms
+
+ 
+=== Replicação 686 ===
+Duração V2V Msg: 0.109000 ms
+Duração V2N Msg: 0.129500 ms
+
+ 
+=== Replicação 687 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.118200 ms
+
+ 
+=== Replicação 688 ===
+Duração V2V Msg: 0.182500 ms
+Duração V2N Msg: 0.095100 ms
+
+ 
+=== Replicação 689 ===
+Duração V2V Msg: 0.155200 ms
+Duração V2N Msg: 0.107600 ms
+
+ 
+=== Replicação 690 ===
+Duração V2V Msg: 0.146900 ms
+Duração V2N Msg: 0.107500 ms
+
+ 
+=== Replicação 691 ===
+Duração V2V Msg: 0.108900 ms
+Duração V2N Msg: 0.110500 ms
+
+ 
+=== Replicação 692 ===
+Duração V2V Msg: 0.104000 ms
+Duração V2N Msg: 0.120600 ms
+
+ 
+=== Replicação 693 ===
+Duração V2V Msg: 0.109000 ms
+Duração V2N Msg: 0.109500 ms
+
+ 
+=== Replicação 694 ===
+Duração V2V Msg: 0.170700 ms
+Duração V2N Msg: 0.095100 ms
+
+ 
+=== Replicação 695 ===
+Duração V2V Msg: 0.167400 ms
+Duração V2N Msg: 0.095200 ms
+
+ 
+=== Replicação 696 ===
+Duração V2V Msg: 0.182300 ms
+Duração V2N Msg: 0.095200 ms
+
+ 
+=== Replicação 697 ===
+Duração V2V Msg: 0.101300 ms
+Duração V2N Msg: 0.099100 ms
+
+ 
+=== Replicação 698 ===
+Duração V2V Msg: 0.134000 ms
+Duração V2N Msg: 0.131400 ms
+
+ 
+=== Replicação 699 ===
+Duração V2V Msg: 0.188000 ms
+Duração V2N Msg: 0.110500 ms
+
+ 
+=== Replicação 700 ===
+Duração V2V Msg: 0.109500 ms
+Duração V2N Msg: 0.133400 ms
+
+ 
+=== Replicação 701 ===
+Duração V2V Msg: 0.133000 ms
+Duração V2N Msg: 0.121300 ms
+
+ 
+=== Replicação 702 ===
+Duração V2V Msg: 0.132600 ms
+Duração V2N Msg: 0.125700 ms
+
+ 
+=== Replicação 703 ===
+Duração V2V Msg: 0.183100 ms
+Duração V2N Msg: 0.095200 ms
+
+ 
+=== Replicação 704 ===
+Duração V2V Msg: 0.133000 ms
+Duração V2N Msg: 0.112600 ms
+
+ 
+=== Replicação 705 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.180200 ms
+
+ 
+=== Replicação 706 ===
+Duração V2V Msg: 0.109000 ms
+Duração V2N Msg: 0.102700 ms
+
+ 
+=== Replicação 707 ===
+Duração V2V Msg: 0.109400 ms
+Duração V2N Msg: 0.112000 ms
+
+ 
+=== Replicação 708 ===
+Duração V2V Msg: 0.104000 ms
+Duração V2N Msg: 0.120700 ms
+
+ 
+=== Replicação 709 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.120000 ms
+
+ 
+=== Replicação 710 ===
+Duração V2V Msg: 0.137100 ms
+Duração V2N Msg: 0.125700 ms
+
+ 
+=== Replicação 711 ===
+Duração V2V Msg: 0.137300 ms
+Duração V2N Msg: 0.139300 ms
+
+ 
+=== Replicação 712 ===
+Duração V2V Msg: 0.107700 ms
+Duração V2N Msg: 0.104500 ms
+
+ 
+=== Replicação 713 ===
+Duração V2V Msg: 0.106700 ms
+Duração V2N Msg: 0.101600 ms
+
+ 
+=== Replicação 714 ===
+Duração V2V Msg: 0.185000 ms
+Duração V2N Msg: 0.097400 ms
+
+ 
+=== Replicação 715 ===
+Duração V2V Msg: 0.181000 ms
+Duração V2N Msg: 0.095200 ms
+
+ 
+=== Replicação 716 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.120300 ms
+
+ 
+=== Replicação 717 ===
+Duração V2V Msg: 0.182400 ms
+Duração V2N Msg: 0.094800 ms
+
+ 
+=== Replicação 718 ===
+Duração V2V Msg: 0.185800 ms
+Duração V2N Msg: 0.308300 ms
+
+ 
+=== Replicação 719 ===
+Duração V2V Msg: 0.108200 ms
+Duração V2N Msg: 0.119600 ms
+
+ 
+=== Replicação 720 ===
+Duração V2V Msg: 0.114900 ms
+Duração V2N Msg: 0.120800 ms
+
+ 
+=== Replicação 721 ===
+Duração V2V Msg: 0.144700 ms
+Duração V2N Msg: 0.119300 ms
+
+ 
+=== Replicação 722 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.109500 ms
+
+ 
+=== Replicação 723 ===
+Duração V2V Msg: 0.137100 ms
+Duração V2N Msg: 0.120300 ms
+
+ 
+=== Replicação 724 ===
+Duração V2V Msg: 0.140200 ms
+Duração V2N Msg: 0.118300 ms
+
+ 
+=== Replicação 725 ===
+Duração V2V Msg: 0.110200 ms
+Duração V2N Msg: 0.120400 ms
+
+ 
+=== Replicação 726 ===
+Duração V2V Msg: 0.108700 ms
+Duração V2N Msg: 0.120800 ms
+
+ 
+=== Replicação 727 ===
+Duração V2V Msg: 0.184700 ms
+Duração V2N Msg: 0.098900 ms
+
+ 
+=== Replicação 728 ===
+Duração V2V Msg: 0.109000 ms
+Duração V2N Msg: 0.101800 ms
+
+ 
+=== Replicação 729 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 730 ===
+Duração V2V Msg: 0.137000 ms
+Duração V2N Msg: 0.118900 ms
+
+ 
+=== Replicação 731 ===
+Duração V2V Msg: 0.108900 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 732 ===
+Duração V2V Msg: 0.190400 ms
+Duração V2N Msg: 0.095900 ms
+
+ 
+=== Replicação 733 ===
+Duração V2V Msg: 0.103900 ms
+Duração V2N Msg: 0.110200 ms
+
+ 
+=== Replicação 734 ===
+Duração V2V Msg: 0.109300 ms
+Duração V2N Msg: 0.123600 ms
+
+ 
+=== Replicação 735 ===
+Duração V2V Msg: 0.182500 ms
+Duração V2N Msg: 0.095100 ms
+
+ 
+=== Replicação 736 ===
+Duração V2V Msg: 0.108900 ms
+Duração V2N Msg: 0.110300 ms
+
+ 
+=== Replicação 737 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.120900 ms
+
+ 
+=== Replicação 738 ===
+Duração V2V Msg: 0.109300 ms
+Duração V2N Msg: 0.120500 ms
+
+ 
+=== Replicação 739 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.120300 ms
+
+ 
+=== Replicação 740 ===
+Duração V2V Msg: 0.143700 ms
+Duração V2N Msg: 0.119500 ms
+
+ 
+=== Replicação 741 ===
+Duração V2V Msg: 0.135300 ms
+Duração V2N Msg: 0.118600 ms
+
+ 
+=== Replicação 742 ===
+Duração V2V Msg: 0.137000 ms
+Duração V2N Msg: 0.102000 ms
+
+ 
+=== Replicação 743 ===
+Duração V2V Msg: 0.177700 ms
+Duração V2N Msg: 0.101400 ms
+
+ 
+=== Replicação 744 ===
+Duração V2V Msg: 0.143400 ms
+Duração V2N Msg: 0.119000 ms
+
+ 
+=== Replicação 745 ===
+Duração V2V Msg: 0.146600 ms
+Duração V2N Msg: 0.120000 ms
+
+ 
+=== Replicação 746 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.130400 ms
+
+ 
+=== Replicação 747 ===
+Duração V2V Msg: 0.103700 ms
+Duração V2N Msg: 0.107200 ms
+
+ 
+=== Replicação 748 ===
+Duração V2V Msg: 0.136900 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 749 ===
+Duração V2V Msg: 0.204900 ms
+Duração V2N Msg: 0.094600 ms
+
+ 
+=== Replicação 750 ===
+Duração V2V Msg: 0.108600 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 751 ===
+Duração V2V Msg: 0.194500 ms
+Duração V2N Msg: 0.095500 ms
+
+ 
+=== Replicação 752 ===
+Duração V2V Msg: 0.108200 ms
+Duração V2N Msg: 0.131400 ms
+
+ 
+=== Replicação 753 ===
+Duração V2V Msg: 0.109500 ms
+Duração V2N Msg: 0.129500 ms
+
+ 
+=== Replicação 754 ===
+Duração V2V Msg: 0.189100 ms
+Duração V2N Msg: 0.094900 ms
+
+ 
+=== Replicação 755 ===
+Duração V2V Msg: 0.191500 ms
+Duração V2N Msg: 0.095000 ms
+
+ 
+=== Replicação 756 ===
+Duração V2V Msg: 0.144200 ms
+Duração V2N Msg: 0.107100 ms
+
+ 
+=== Replicação 757 ===
+Duração V2V Msg: 0.108600 ms
+Duração V2N Msg: 0.101600 ms
+
+ 
+=== Replicação 758 ===
+Duração V2V Msg: 0.104000 ms
+Duração V2N Msg: 0.135900 ms
+
+ 
+=== Replicação 759 ===
+Duração V2V Msg: 0.191200 ms
+Duração V2N Msg: 0.106600 ms
+
+ 
+=== Replicação 760 ===
+Duração V2V Msg: 0.192600 ms
+Duração V2N Msg: 0.095100 ms
+
+ 
+=== Replicação 761 ===
+Duração V2V Msg: 0.104600 ms
+Duração V2N Msg: 0.101700 ms
+
+ 
+=== Replicação 762 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.118700 ms
+
+ 
+=== Replicação 763 ===
+Duração V2V Msg: 0.108000 ms
+Duração V2N Msg: 0.129400 ms
+
+ 
+=== Replicação 764 ===
+Duração V2V Msg: 0.108600 ms
+Duração V2N Msg: 0.156800 ms
+
+ 
+=== Replicação 765 ===
+Duração V2V Msg: 0.107900 ms
+Duração V2N Msg: 0.120200 ms
+
+ 
+=== Replicação 766 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.130900 ms
+
+ 
+=== Replicação 767 ===
+Duração V2V Msg: 0.108000 ms
+Duração V2N Msg: 0.129500 ms
+
+ 
+=== Replicação 768 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.129500 ms
+
+ 
+=== Replicação 769 ===
+Duração V2V Msg: 0.108700 ms
+Duração V2N Msg: 0.120200 ms
+
+ 
+=== Replicação 770 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.131100 ms
+
+ 
+=== Replicação 771 ===
+Duração V2V Msg: 0.108900 ms
+Duração V2N Msg: 0.114200 ms
+
+ 
+=== Replicação 772 ===
+Duração V2V Msg: 0.108900 ms
+Duração V2N Msg: 0.133400 ms
+
+ 
+=== Replicação 773 ===
+Duração V2V Msg: 0.105500 ms
+Duração V2N Msg: 0.109700 ms
+
+ 
+=== Replicação 774 ===
+Duração V2V Msg: 0.109200 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 775 ===
+Duração V2V Msg: 0.188600 ms
+Duração V2N Msg: 0.100300 ms
+
+ 
+=== Replicação 776 ===
+Duração V2V Msg: 0.100600 ms
+Duração V2N Msg: 0.099100 ms
+
+ 
+=== Replicação 777 ===
+Duração V2V Msg: 0.103400 ms
+Duração V2N Msg: 0.107800 ms
+
+ 
+=== Replicação 778 ===
+Duração V2V Msg: 0.189900 ms
+Duração V2N Msg: 0.111000 ms
+
+ 
+=== Replicação 779 ===
+Duração V2V Msg: 0.103000 ms
+Duração V2N Msg: 0.096800 ms
+
+ 
+=== Replicação 780 ===
+Duração V2V Msg: 0.133900 ms
+Duração V2N Msg: 0.108000 ms
+
+ 
+=== Replicação 781 ===
+Duração V2V Msg: 0.108600 ms
+Duração V2N Msg: 0.129100 ms
+
+ 
+=== Replicação 782 ===
+Duração V2V Msg: 0.136400 ms
+Duração V2N Msg: 0.107400 ms
+
+ 
+=== Replicação 783 ===
+Duração V2V Msg: 0.108600 ms
+Duração V2N Msg: 0.121200 ms
+
+ 
+=== Replicação 784 ===
+Duração V2V Msg: 0.108000 ms
+Duração V2N Msg: 0.129200 ms
+
+ 
+=== Replicação 785 ===
+Duração V2V Msg: 0.107900 ms
+Duração V2N Msg: 0.118600 ms
+
+ 
+=== Replicação 786 ===
+Duração V2V Msg: 0.109000 ms
+Duração V2N Msg: 0.130200 ms
+
+ 
+=== Replicação 787 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.131600 ms
+
+ 
+=== Replicação 788 ===
+Duração V2V Msg: 0.109200 ms
+Duração V2N Msg: 0.102100 ms
+
+ 
+=== Replicação 789 ===
+Duração V2V Msg: 0.110000 ms
+Duração V2N Msg: 0.101900 ms
+
+ 
+=== Replicação 790 ===
+Duração V2V Msg: 0.149000 ms
+Duração V2N Msg: 0.106800 ms
+
+ 
+=== Replicação 791 ===
+Duração V2V Msg: 0.180000 ms
+Duração V2N Msg: 0.156100 ms
+
+ 
+=== Replicação 792 ===
+Duração V2V Msg: 0.249900 ms
+Duração V2N Msg: 0.204200 ms
+
+ 
+=== Replicação 793 ===
+Duração V2V Msg: 0.183400 ms
+Duração V2N Msg: 0.191300 ms
+
+ 
+=== Replicação 794 ===
+Duração V2V Msg: 0.178900 ms
+Duração V2N Msg: 0.114600 ms
+
+ 
+=== Replicação 795 ===
+Duração V2V Msg: 0.105500 ms
+Duração V2N Msg: 0.107400 ms
+
+ 
+=== Replicação 796 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.101800 ms
+
+ 
+=== Replicação 797 ===
+Duração V2V Msg: 0.181100 ms
+Duração V2N Msg: 0.181200 ms
+
+ 
+=== Replicação 798 ===
+Duração V2V Msg: 0.187300 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 799 ===
+Duração V2V Msg: 0.211000 ms
+Duração V2N Msg: 0.176700 ms
+
+ 
+=== Replicação 800 ===
+Duração V2V Msg: 0.187200 ms
+Duração V2N Msg: 0.181400 ms
+
+ 
+=== Replicação 801 ===
+Duração V2V Msg: 0.185100 ms
+Duração V2N Msg: 0.171000 ms
+
+ 
+=== Replicação 802 ===
+Duração V2V Msg: 0.178700 ms
+Duração V2N Msg: 0.120100 ms
+
+ 
+=== Replicação 803 ===
+Duração V2V Msg: 0.189900 ms
+Duração V2N Msg: 0.107700 ms
+
+ 
+=== Replicação 804 ===
+Duração V2V Msg: 0.248800 ms
+Duração V2N Msg: 0.161600 ms
+
+ 
+=== Replicação 805 ===
+Duração V2V Msg: 0.107900 ms
+Duração V2N Msg: 0.188400 ms
+
+ 
+=== Replicação 806 ===
+Duração V2V Msg: 0.141900 ms
+Duração V2N Msg: 0.103400 ms
+
+ 
+=== Replicação 807 ===
+Duração V2V Msg: 0.115000 ms
+Duração V2N Msg: 0.102100 ms
+
+ 
+=== Replicação 808 ===
+Duração V2V Msg: 0.102200 ms
+Duração V2N Msg: 0.189700 ms
+
+ 
+=== Replicação 809 ===
+Duração V2V Msg: 0.102300 ms
+Duração V2N Msg: 0.101500 ms
+
+ 
+=== Replicação 810 ===
+Duração V2V Msg: 0.111500 ms
+Duração V2N Msg: 0.216700 ms
+
+ 
+=== Replicação 811 ===
+Duração V2V Msg: 0.105500 ms
+Duração V2N Msg: 0.181300 ms
+
+ 
+=== Replicação 812 ===
+Duração V2V Msg: 0.110900 ms
+Duração V2N Msg: 0.102100 ms
+
+ 
+=== Replicação 813 ===
+Duração V2V Msg: 0.129400 ms
+Duração V2N Msg: 0.202900 ms
+
+ 
+=== Replicação 814 ===
+Duração V2V Msg: 0.128400 ms
+Duração V2N Msg: 0.104700 ms
+
+ 
+=== Replicação 815 ===
+Duração V2V Msg: 0.111100 ms
+Duração V2N Msg: 0.110000 ms
+
+ 
+=== Replicação 816 ===
+Duração V2V Msg: 0.189700 ms
+Duração V2N Msg: 0.105600 ms
+
+ 
+=== Replicação 817 ===
+Duração V2V Msg: 0.106400 ms
+Duração V2N Msg: 0.197700 ms
+
+ 
+=== Replicação 818 ===
+Duração V2V Msg: 0.104600 ms
+Duração V2N Msg: 0.122000 ms
+
+ 
+=== Replicação 819 ===
+Duração V2V Msg: 0.107800 ms
+Duração V2N Msg: 0.113000 ms
+
+ 
+=== Replicação 820 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.112100 ms
+
+ 
+=== Replicação 821 ===
+Duração V2V Msg: 0.108200 ms
+Duração V2N Msg: 0.112800 ms
+
+ 
+=== Replicação 822 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.113000 ms
+
+ 
+=== Replicação 823 ===
+Duração V2V Msg: 0.142000 ms
+Duração V2N Msg: 0.112300 ms
+
+ 
+=== Replicação 824 ===
+Duração V2V Msg: 0.114300 ms
+Duração V2N Msg: 0.101700 ms
+
+ 
+=== Replicação 825 ===
+Duração V2V Msg: 0.136200 ms
+Duração V2N Msg: 0.113200 ms
+
+ 
+=== Replicação 826 ===
+Duração V2V Msg: 0.136500 ms
+Duração V2N Msg: 0.119400 ms
+
+ 
+=== Replicação 827 ===
+Duração V2V Msg: 0.198000 ms
+Duração V2N Msg: 0.099100 ms
+
+ 
+=== Replicação 828 ===
+Duração V2V Msg: 0.135700 ms
+Duração V2N Msg: 0.112500 ms
+
+ 
+=== Replicação 829 ===
+Duração V2V Msg: 0.173300 ms
+Duração V2N Msg: 0.099100 ms
+
+ 
+=== Replicação 830 ===
+Duração V2V Msg: 0.180600 ms
+Duração V2N Msg: 0.101400 ms
+
+ 
+=== Replicação 831 ===
+Duração V2V Msg: 0.109900 ms
+Duração V2N Msg: 0.101900 ms
+
+ 
+=== Replicação 832 ===
+Duração V2V Msg: 0.112200 ms
+Duração V2N Msg: 0.102000 ms
+
+ 
+=== Replicação 833 ===
+Duração V2V Msg: 0.109800 ms
+Duração V2N Msg: 0.110900 ms
+
+ 
+=== Replicação 834 ===
+Duração V2V Msg: 0.188200 ms
+Duração V2N Msg: 0.110500 ms
+
+ 
+=== Replicação 835 ===
+Duração V2V Msg: 0.184600 ms
+Duração V2N Msg: 0.110100 ms
+
+ 
+=== Replicação 836 ===
+Duração V2V Msg: 0.109900 ms
+Duração V2N Msg: 0.111000 ms
+
+ 
+=== Replicação 837 ===
+Duração V2V Msg: 0.109800 ms
+Duração V2N Msg: 0.110800 ms
+
+ 
+=== Replicação 838 ===
+Duração V2V Msg: 0.109900 ms
+Duração V2N Msg: 0.111200 ms
+
+ 
+=== Replicação 839 ===
+Duração V2V Msg: 0.109400 ms
+Duração V2N Msg: 0.111000 ms
+
+ 
+=== Replicação 840 ===
+Duração V2V Msg: 0.137000 ms
+Duração V2N Msg: 0.110800 ms
+
+ 
+=== Replicação 841 ===
+Duração V2V Msg: 0.110100 ms
+Duração V2N Msg: 0.111100 ms
+
+ 
+=== Replicação 842 ===
+Duração V2V Msg: 0.186700 ms
+Duração V2N Msg: 0.099300 ms
+
+ 
+=== Replicação 843 ===
+Duração V2V Msg: 0.110600 ms
+Duração V2N Msg: 0.101500 ms
+
+ 
+=== Replicação 844 ===
+Duração V2V Msg: 0.111500 ms
+Duração V2N Msg: 0.102200 ms
+
+ 
+=== Replicação 845 ===
+Duração V2V Msg: 0.188000 ms
+Duração V2N Msg: 0.105200 ms
+
+ 
+=== Replicação 846 ===
+Duração V2V Msg: 0.106400 ms
+Duração V2N Msg: 0.102800 ms
+
+ 
+=== Replicação 847 ===
+Duração V2V Msg: 0.110400 ms
+Duração V2N Msg: 0.111200 ms
+
+ 
+=== Replicação 848 ===
+Duração V2V Msg: 0.110200 ms
+Duração V2N Msg: 0.111700 ms
+
+ 
+=== Replicação 849 ===
+Duração V2V Msg: 0.110000 ms
+Duração V2N Msg: 0.115500 ms
+
+ 
+=== Replicação 850 ===
+Duração V2V Msg: 0.110000 ms
+Duração V2N Msg: 0.101200 ms
+
+ 
+=== Replicação 851 ===
+Duração V2V Msg: 0.109700 ms
+Duração V2N Msg: 0.113700 ms
+
+ 
+=== Replicação 852 ===
+Duração V2V Msg: 0.103700 ms
+Duração V2N Msg: 0.101800 ms
+
+ 
+=== Replicação 853 ===
+Duração V2V Msg: 0.190500 ms
+Duração V2N Msg: 0.097000 ms
+
+ 
+=== Replicação 854 ===
+Duração V2V Msg: 0.142900 ms
+Duração V2N Msg: 0.112100 ms
+
+ 
+=== Replicação 855 ===
+Duração V2V Msg: 0.103900 ms
+Duração V2N Msg: 0.101100 ms
+
+ 
+=== Replicação 856 ===
+Duração V2V Msg: 0.108100 ms
+Duração V2N Msg: 0.101700 ms
+
+ 
+=== Replicação 857 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.139000 ms
+
+ 
+=== Replicação 858 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.099500 ms
+
+ 
+=== Replicação 859 ===
+Duração V2V Msg: 0.114100 ms
+Duração V2N Msg: 0.109300 ms
+
+ 
+=== Replicação 860 ===
+Duração V2V Msg: 0.106300 ms
+Duração V2N Msg: 0.102500 ms
+
+ 
+=== Replicação 861 ===
+Duração V2V Msg: 0.178400 ms
+Duração V2N Msg: 0.173700 ms
+
+ 
+=== Replicação 862 ===
+Duração V2V Msg: 0.177500 ms
+Duração V2N Msg: 0.173600 ms
+
+ 
+=== Replicação 863 ===
+Duração V2V Msg: 0.177400 ms
+Duração V2N Msg: 0.174100 ms
+
+ 
+=== Replicação 864 ===
+Duração V2V Msg: 0.177400 ms
+Duração V2N Msg: 0.173600 ms
+
+ 
+=== Replicação 865 ===
+Duração V2V Msg: 0.177500 ms
+Duração V2N Msg: 0.173700 ms
+
+ 
+=== Replicação 866 ===
+Duração V2V Msg: 0.177900 ms
+Duração V2N Msg: 0.173800 ms
+
+ 
+=== Replicação 867 ===
+Duração V2V Msg: 0.180200 ms
+Duração V2N Msg: 0.104700 ms
+
+ 
+=== Replicação 868 ===
+Duração V2V Msg: 0.108100 ms
+Duração V2N Msg: 0.102400 ms
+
+ 
+=== Replicação 869 ===
+Duração V2V Msg: 0.188800 ms
+Duração V2N Msg: 0.102900 ms
+
+ 
+=== Replicação 870 ===
+Duração V2V Msg: 0.103700 ms
+Duração V2N Msg: 0.110700 ms
+
+ 
+=== Replicação 871 ===
+Duração V2V Msg: 0.108200 ms
+Duração V2N Msg: 0.113800 ms
+
+ 
+=== Replicação 872 ===
+Duração V2V Msg: 0.180300 ms
+Duração V2N Msg: 0.177800 ms
+
+ 
+=== Replicação 873 ===
+Duração V2V Msg: 0.103800 ms
+Duração V2N Msg: 0.101200 ms
+
+ 
+=== Replicação 874 ===
+Duração V2V Msg: 0.183700 ms
+Duração V2N Msg: 0.101300 ms
+
+ 
+=== Replicação 875 ===
+Duração V2V Msg: 0.103500 ms
+Duração V2N Msg: 0.101500 ms
+
+ 
+=== Replicação 876 ===
+Duração V2V Msg: 0.103600 ms
+Duração V2N Msg: 0.101700 ms
+
+ 
+=== Replicação 877 ===
+Duração V2V Msg: 0.108400 ms
+Duração V2N Msg: 0.112900 ms
+
+ 
+=== Replicação 878 ===
+Duração V2V Msg: 0.105800 ms
+Duração V2N Msg: 0.112900 ms
+
+ 
+=== Replicação 879 ===
+Duração V2V Msg: 0.107000 ms
+Duração V2N Msg: 0.112400 ms
+
+ 
+=== Replicação 880 ===
+Duração V2V Msg: 0.109700 ms
+Duração V2N Msg: 0.102100 ms
+
+ 
+=== Replicação 881 ===
+Duração V2V Msg: 0.107800 ms
+Duração V2N Msg: 0.101600 ms
+
+ 
+=== Replicação 882 ===
+Duração V2V Msg: 0.184000 ms
+Duração V2N Msg: 0.097000 ms
+
+ 
+=== Replicação 883 ===
+Duração V2V Msg: 0.230000 ms
+Duração V2N Msg: 0.105900 ms
+
+ 
+=== Replicação 884 ===
+Duração V2V Msg: 0.183800 ms
+Duração V2N Msg: 0.108100 ms
+
+ 
+=== Replicação 885 ===
+Duração V2V Msg: 0.103200 ms
+Duração V2N Msg: 0.213700 ms
+
+ 
+=== Replicação 886 ===
+Duração V2V Msg: 0.106300 ms
+Duração V2N Msg: 0.103100 ms
+
+ 
+=== Replicação 887 ===
+Duração V2V Msg: 0.228100 ms
+Duração V2N Msg: 0.155300 ms
+
+ 
+=== Replicação 888 ===
+Duração V2V Msg: 0.156700 ms
+Duração V2N Msg: 0.153900 ms
+
+ 
+=== Replicação 889 ===
+Duração V2V Msg: 0.157400 ms
+Duração V2N Msg: 0.152400 ms
+
+ 
+=== Replicação 890 ===
+Duração V2V Msg: 0.105400 ms
+Duração V2N Msg: 0.096900 ms
+
+ 
+=== Replicação 891 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.123100 ms
+
+ 
+=== Replicação 892 ===
+Duração V2V Msg: 0.107200 ms
+Duração V2N Msg: 0.111700 ms
+
+ 
+=== Replicação 893 ===
+Duração V2V Msg: 0.107900 ms
+Duração V2N Msg: 0.111600 ms
+
+ 
+=== Replicação 894 ===
+Duração V2V Msg: 0.107500 ms
+Duração V2N Msg: 0.112100 ms
+
+ 
+=== Replicação 895 ===
+Duração V2V Msg: 0.107000 ms
+Duração V2N Msg: 0.112400 ms
+
+ 
+=== Replicação 896 ===
+Duração V2V Msg: 0.141500 ms
+Duração V2N Msg: 0.107600 ms
+
+ 
+=== Replicação 897 ===
+Duração V2V Msg: 0.134900 ms
+Duração V2N Msg: 0.121900 ms
+
+ 
+=== Replicação 898 ===
+Duração V2V Msg: 0.102300 ms
+Duração V2N Msg: 0.111400 ms
+
+ 
+=== Replicação 899 ===
+Duração V2V Msg: 0.107200 ms
+Duração V2N Msg: 0.113200 ms
+
+ 
+=== Replicação 900 ===
+Duração V2V Msg: 0.183500 ms
+Duração V2N Msg: 0.099200 ms
+
+ 
+=== Replicação 901 ===
+Duração V2V Msg: 0.109300 ms
+Duração V2N Msg: 0.111300 ms
+
+ 
+=== Replicação 902 ===
+Duração V2V Msg: 0.189300 ms
+Duração V2N Msg: 0.101800 ms
+
+ 
+=== Replicação 903 ===
+Duração V2V Msg: 0.157400 ms
+Duração V2N Msg: 0.097100 ms
+
+ 
+=== Replicação 904 ===
+Duração V2V Msg: 0.107600 ms
+Duração V2N Msg: 0.112900 ms
+
+ 
+=== Replicação 905 ===
+Duração V2V Msg: 0.105000 ms
+Duração V2N Msg: 0.109700 ms
+
+ 
+=== Replicação 906 ===
+Duração V2V Msg: 0.108000 ms
+Duração V2N Msg: 0.112000 ms
+
+ 
+=== Replicação 907 ===
+Duração V2V Msg: 0.108000 ms
+Duração V2N Msg: 0.112000 ms
+
+ 
+=== Replicação 908 ===
+Duração V2V Msg: 0.135200 ms
+Duração V2N Msg: 0.111000 ms
+
+ 
+=== Replicação 909 ===
+Duração V2V Msg: 0.134600 ms
+Duração V2N Msg: 0.122800 ms
+
+ 
+=== Replicação 910 ===
+Duração V2V Msg: 0.135900 ms
+Duração V2N Msg: 0.126900 ms
+
+ 
+=== Replicação 911 ===
+Duração V2V Msg: 0.180900 ms
+Duração V2N Msg: 0.096900 ms
+
+ 
+=== Replicação 912 ===
+Duração V2V Msg: 0.138700 ms
+Duração V2N Msg: 0.101000 ms
+
+ 
+=== Replicação 913 ===
+Duração V2V Msg: 0.107500 ms
+Duração V2N Msg: 0.121300 ms
+
+ 
+=== Replicação 914 ===
+Duração V2V Msg: 0.103500 ms
+Duração V2N Msg: 0.119600 ms
+
+ 
+=== Replicação 915 ===
+Duração V2V Msg: 0.107200 ms
+Duração V2N Msg: 0.098700 ms
+
+ 
+=== Replicação 916 ===
+Duração V2V Msg: 0.109400 ms
+Duração V2N Msg: 0.120600 ms
+
+ 
+=== Replicação 917 ===
+Duração V2V Msg: 0.106900 ms
+Duração V2N Msg: 0.106800 ms
+
+ 
+=== Replicação 918 ===
+Duração V2V Msg: 0.187700 ms
+Duração V2N Msg: 0.107200 ms
+
+ 
+=== Replicação 919 ===
+Duração V2V Msg: 0.136000 ms
+Duração V2N Msg: 0.112700 ms
+
+ 
+=== Replicação 920 ===
+Duração V2V Msg: 0.136300 ms
+Duração V2N Msg: 0.112200 ms
+
+ 
+=== Replicação 921 ===
+Duração V2V Msg: 0.107500 ms
+Duração V2N Msg: 0.112300 ms
+
+ 
+=== Replicação 922 ===
+Duração V2V Msg: 0.107400 ms
+Duração V2N Msg: 0.112100 ms
+
+ 
+=== Replicação 923 ===
+Duração V2V Msg: 0.103900 ms
+Duração V2N Msg: 0.110000 ms
+
+ 
+=== Replicação 924 ===
+Duração V2V Msg: 0.103000 ms
+Duração V2N Msg: 0.110600 ms
+
+ 
+=== Replicação 925 ===
+Duração V2V Msg: 0.107600 ms
+Duração V2N Msg: 0.111800 ms
+
+ 
+=== Replicação 926 ===
+Duração V2V Msg: 0.145000 ms
+Duração V2N Msg: 0.102900 ms
+
+ 
+=== Replicação 927 ===
+Duração V2V Msg: 0.183700 ms
+Duração V2N Msg: 0.096800 ms
+
+ 
+=== Replicação 928 ===
+Duração V2V Msg: 0.103200 ms
+Duração V2N Msg: 0.111000 ms
+
+ 
+=== Replicação 929 ===
+Duração V2V Msg: 0.135900 ms
+Duração V2N Msg: 0.112100 ms
+
+ 
+=== Replicação 930 ===
+Duração V2V Msg: 0.107800 ms
+Duração V2N Msg: 0.107600 ms
+
+ 
+=== Replicação 931 ===
+Duração V2V Msg: 0.109600 ms
+Duração V2N Msg: 0.108300 ms
+
+ 
+=== Replicação 932 ===
+Duração V2V Msg: 0.107900 ms
+Duração V2N Msg: 0.121600 ms
+
+ 
+=== Replicação 933 ===
+Duração V2V Msg: 0.200600 ms
+Duração V2N Msg: 0.096700 ms
+
+ 
+=== Replicação 934 ===
+Duração V2V Msg: 0.107900 ms
+Duração V2N Msg: 0.121400 ms
+
+ 
+=== Replicação 935 ===
+Duração V2V Msg: 0.107800 ms
+Duração V2N Msg: 0.112500 ms
+
+ 
+=== Replicação 936 ===
+Duração V2V Msg: 0.107700 ms
+Duração V2N Msg: 0.124900 ms
+
+ 
+=== Replicação 937 ===
+Duração V2V Msg: 0.107700 ms
+Duração V2N Msg: 0.124600 ms
+
+ 
+=== Replicação 938 ===
+Duração V2V Msg: 0.107500 ms
+Duração V2N Msg: 0.121100 ms
+
+ 
+=== Replicação 939 ===
+Duração V2V Msg: 0.140800 ms
+Duração V2N Msg: 0.111700 ms
+
+ 
+=== Replicação 940 ===
+Duração V2V Msg: 0.138100 ms
+Duração V2N Msg: 0.197200 ms
+
+ 
+=== Replicação 941 ===
+Duração V2V Msg: 0.103200 ms
+Duração V2N Msg: 0.119100 ms
+
+ 
+=== Replicação 942 ===
+Duração V2V Msg: 0.108000 ms
+Duração V2N Msg: 0.130100 ms
+
+ 
+=== Replicação 943 ===
+Duração V2V Msg: 0.108100 ms
+Duração V2N Msg: 0.121400 ms
+
+ 
+=== Replicação 944 ===
+Duração V2V Msg: 0.108100 ms
+Duração V2N Msg: 0.120400 ms
+
+ 
+=== Replicação 945 ===
+Duração V2V Msg: 0.108300 ms
+Duração V2N Msg: 0.132100 ms
+
+ 
+=== Replicação 946 ===
+Duração V2V Msg: 0.132900 ms
+Duração V2N Msg: 0.109700 ms
+
+ 
+=== Replicação 947 ===
+Duração V2V Msg: 0.104100 ms
+Duração V2N Msg: 0.119800 ms
+
+ 
+=== Replicação 948 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.124300 ms
+
+ 
+=== Replicação 949 ===
+Duração V2V Msg: 0.107700 ms
+Duração V2N Msg: 0.130000 ms
+
+ 
+=== Replicação 950 ===
+Duração V2V Msg: 0.183500 ms
+Duração V2N Msg: 0.094800 ms
+
+ 
+=== Replicação 951 ===
+Duração V2V Msg: 0.108100 ms
+Duração V2N Msg: 0.118400 ms
+
+ 
+=== Replicação 952 ===
+Duração V2V Msg: 0.199100 ms
+Duração V2N Msg: 0.094900 ms
+
+ 
+=== Replicação 953 ===
+Duração V2V Msg: 0.203600 ms
+Duração V2N Msg: 0.095300 ms
+
+ 
+=== Replicação 954 ===
+Duração V2V Msg: 0.150900 ms
+Duração V2N Msg: 0.095000 ms
+
+ 
+=== Replicação 955 ===
+Duração V2V Msg: 0.103200 ms
+Duração V2N Msg: 0.121300 ms
+
+ 
+=== Replicação 956 ===
+Duração V2V Msg: 0.108000 ms
+Duração V2N Msg: 0.118200 ms
+
+ 
+=== Replicação 957 ===
+Duração V2V Msg: 0.136200 ms
+Duração V2N Msg: 0.135100 ms
+
+ 
+=== Replicação 958 ===
+Duração V2V Msg: 0.183000 ms
+Duração V2N Msg: 0.094600 ms
+
+ 
+=== Replicação 959 ===
+Duração V2V Msg: 0.184900 ms
+Duração V2N Msg: 0.094600 ms
+
+ 
+=== Replicação 960 ===
+Duração V2V Msg: 0.183100 ms
+Duração V2N Msg: 0.107100 ms
+
+ 
+=== Replicação 961 ===
+Duração V2V Msg: 0.150100 ms
+Duração V2N Msg: 0.107800 ms
+
+ 
+=== Replicação 962 ===
+Duração V2V Msg: 0.103000 ms
+Duração V2N Msg: 0.119100 ms
+
+ 
+=== Replicação 963 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.132600 ms
+
+ 
+=== Replicação 964 ===
+Duração V2V Msg: 0.154700 ms
+Duração V2N Msg: 0.107800 ms
+
+ 
+=== Replicação 965 ===
+Duração V2V Msg: 0.107400 ms
+Duração V2N Msg: 0.118000 ms
+
+ 
+=== Replicação 966 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.118100 ms
+
+ 
+=== Replicação 967 ===
+Duração V2V Msg: 0.107800 ms
+Duração V2N Msg: 0.118400 ms
+
+ 
+=== Replicação 968 ===
+Duração V2V Msg: 0.107700 ms
+Duração V2N Msg: 0.118200 ms
+
+ 
+=== Replicação 969 ===
+Duração V2V Msg: 0.111600 ms
+Duração V2N Msg: 0.101200 ms
+
+ 
+=== Replicação 970 ===
+Duração V2V Msg: 0.107500 ms
+Duração V2N Msg: 0.118000 ms
+
+ 
+=== Replicação 971 ===
+Duração V2V Msg: 0.108000 ms
+Duração V2N Msg: 0.131100 ms
+
+ 
+=== Replicação 972 ===
+Duração V2V Msg: 0.110000 ms
+Duração V2N Msg: 0.121300 ms
+
+ 
+=== Replicação 973 ===
+Duração V2V Msg: 0.108200 ms
+Duração V2N Msg: 0.110600 ms
+
+ 
+=== Replicação 974 ===
+Duração V2V Msg: 0.108500 ms
+Duração V2N Msg: 0.121000 ms
+
+ 
+=== Replicação 975 ===
+Duração V2V Msg: 0.187200 ms
+Duração V2N Msg: 0.095000 ms
+
+ 
+=== Replicação 976 ===
+Duração V2V Msg: 0.147200 ms
+Duração V2N Msg: 0.099200 ms
+
+ 
+=== Replicação 977 ===
+Duração V2V Msg: 0.107900 ms
+Duração V2N Msg: 0.101600 ms
+
+ 
+=== Replicação 978 ===
+Duração V2V Msg: 0.108700 ms
+Duração V2N Msg: 0.109900 ms
+
+ 
+=== Replicação 979 ===
+Duração V2V Msg: 0.190900 ms
+Duração V2N Msg: 0.095200 ms
+
+ 
+=== Replicação 980 ===
+Duração V2V Msg: 0.178800 ms
+Duração V2N Msg: 0.094900 ms
+
+ 
+=== Replicação 981 ===
+Duração V2V Msg: 0.163900 ms
+Duração V2N Msg: 0.095200 ms
+
+ 
+=== Replicação 982 ===
+Duração V2V Msg: 0.135800 ms
+Duração V2N Msg: 0.105300 ms
+
+ 
+=== Replicação 983 ===
+Duração V2V Msg: 0.126000 ms
+Duração V2N Msg: 0.134700 ms
+
+ 
+=== Replicação 984 ===
+Duração V2V Msg: 0.109900 ms
+Duração V2N Msg: 0.121700 ms
+
+ 
+=== Replicação 985 ===
+Duração V2V Msg: 0.109600 ms
+Duração V2N Msg: 0.108800 ms
+
+ 
+=== Replicação 986 ===
+Duração V2V Msg: 0.109300 ms
+Duração V2N Msg: 0.121000 ms
+
+ 
+=== Replicação 987 ===
+Duração V2V Msg: 0.109600 ms
+Duração V2N Msg: 0.119300 ms
+
+ 
+=== Replicação 988 ===
+Duração V2V Msg: 0.109600 ms
+Duração V2N Msg: 0.108300 ms
+
+ 
+=== Replicação 989 ===
+Duração V2V Msg: 0.109200 ms
+Duração V2N Msg: 0.108700 ms
+
+ 
+=== Replicação 990 ===
+Duração V2V Msg: 0.109400 ms
+Duração V2N Msg: 0.108600 ms
+
+ 
+=== Replicação 991 ===
+Duração V2V Msg: 0.183700 ms
+Duração V2N Msg: 0.099500 ms
+
+ 
+=== Replicação 992 ===
+Duração V2V Msg: 0.125400 ms
+Duração V2N Msg: 0.102100 ms
+
+ 
+=== Replicação 993 ===
+Duração V2V Msg: 0.109400 ms
+Duração V2N Msg: 0.101200 ms
+
+ 
+=== Replicação 994 ===
+Duração V2V Msg: 0.109500 ms
+Duração V2N Msg: 0.109000 ms
+
+ 
+=== Replicação 995 ===
+Duração V2V Msg: 0.109000 ms
+Duração V2N Msg: 0.108900 ms
+
+ 
+=== Replicação 996 ===
+Duração V2V Msg: 0.109400 ms
+Duração V2N Msg: 0.108200 ms
+
+ 
+=== Replicação 997 ===
+Duração V2V Msg: 0.103200 ms
+Duração V2N Msg: 0.119900 ms
+
+ 
+=== Replicação 998 ===
+Duração V2V Msg: 0.119200 ms
+Duração V2N Msg: 0.106100 ms
+
+ 
+=== Replicação 999 ===
+Duração V2V Msg: 0.108100 ms
+Duração V2N Msg: 0.119100 ms
+
+ 
+=== Replicação 1000 ===
+Duração V2V Msg: 0.120800 ms
+Duração V2N Msg: 0.108100 ms
+
+ 
+== Resultados: ==
+Mínimo e Máximo V2V: [0.096600 ms; 2.434600 ms]
+Mínimo e Máximo V2N: [0.094600 ms; 1.629000 ms]
+
+ 
