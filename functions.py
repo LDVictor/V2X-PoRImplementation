@@ -1,14 +1,9 @@
 from p2pnetwork.node import Node
+import aries_functions
 from values import vehicle_1, vehicle_2
 from resources.system_model import communication_v2n
 
-# Definicoes do Comyx
-from comyx.network import UserEquipment, BaseStation
-from comyx.propagation import get_noise_power
-from comyx.utils import dbm2pow, get_distance
-import numpy as np
-from numba import jit
-from matplotlib import pyplot as plt
+import values
 
 def verify_sw(t_v, timestamp):
     inf = t_v - timestamp
@@ -50,5 +45,12 @@ def send_v2v_msg(msg_content):
     return vehicle_1.send_to_node(8002, msg_content)
 
 def send_v2n_msg(msg_content):
-    transmission = communication_v2n(msg_content)
+    transmission = 0
     return transmission
+
+def issue_vc(id):
+    values.vc = aries_functions.generate_credential(id)
+    return values.vc
+
+def verify_vc(vc, id):
+    return aries_functions.verify_credential(vc, id)

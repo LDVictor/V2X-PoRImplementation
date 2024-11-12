@@ -1,3 +1,4 @@
+# coding: utf-8
 import timeit, time
 import functions, values
 import pandas as pd

@@ -9,6 +9,7 @@ vehicle_1 = Node("127.0.0.1", 8001, 1)
 vehicle_2 = Node("127.0.0.1", 8002, 2)
 vehicle_1.start()
 vehicle_2.start()
+vc = ""
 
 
 def clean_lists():

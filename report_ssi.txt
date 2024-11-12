@@ -1,0 +1,55 @@
+=== Replicação 1 ===
+Duração Emissao VC: 44.833003 ms
+Duração Verificacao VC: 19.243002 ms
+
+ 
+=== Replicação 2 ===
+Duração Emissao VC: 23.417000 ms
+Duração Verificacao VC: 20.971002 ms
+
+ 
+=== Replicação 3 ===
+Duração Emissao VC: 16.023998 ms
+Duração Verificacao VC: 16.699003 ms
+
+ 
+=== Replicação 4 ===
+Duração Emissao VC: 13.510999 ms
+Duração Verificacao VC: 7.743001 ms
+
+ 
+=== Replicação 5 ===
+Duração Emissao VC: 15.525002 ms
+Duração Verificacao VC: 9.125000 ms
+
+ 
+=== Replicação 6 ===
+Duração Emissao VC: 11.415003 ms
+Duração Verificacao VC: 7.057999 ms
+
+ 
+=== Replicação 7 ===
+Duração Emissao VC: 15.653997 ms
+Duração Verificacao VC: 8.742998 ms
+
+ 
+=== Replicação 8 ===
+Duração Emissao VC: 15.711998 ms
+Duração Verificacao VC: 8.863000 ms
+
+ 
+=== Replicação 9 ===
+Duração Emissao VC: 10.934997 ms
+Duração Verificacao VC: 7.308001 ms
+
+ 
+=== Replicação 10 ===
+Duração Emissao VC: 9.624000 ms
+Duração Verificacao VC: 6.309998 ms
+
+ 
+== Resultados: ==
+Mínimo e Máximo Emission VC: [9.624000 ms; 44.833003 ms]
+Mínimo e Máximo Verification VC: [6.309998 ms; 20.971002 ms]
+
+ 
