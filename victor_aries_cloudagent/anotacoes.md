@@ -14,7 +14,7 @@ $ ./manage start --logs
 
 $ sudo -H pip3 install --upgrade pip
 
-$ pip3 install multidict typing_extensions attr yarl async_timeout idna_ssl attrs charset_normalizer aiosignal qrcode asyncpg "prompt-toolkit<3.0.0" pygments aries-askar==0.2.7 pydid aiohttp-apispec aiohttp_cors PyJWT PyLD nest-asyncio markdown deepmerge indy-vdr indy-credx python-dateutil==2.8.2
+$ pip3 install pyyaml multidict typing_extensions attr yarl async_timeout idna_ssl attrs charset_normalizer aiosignal qrcode asyncpg "prompt-toolkit<3.0.0" pygments aries-askar==0.2.7 pydid aiohttp-apispec aiohttp_cors PyJWT PyLD nest-asyncio markdown deepmerge indy-vdr indy-credx python-dateutil==2.8.2
 
 $ python3 -m pip install aiohttp configargparse base58
 
